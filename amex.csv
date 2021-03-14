@@ -1,301 +1,272 @@
-"Symbol","Name","LastSale","MarketCap","IPOyear","Sector","industry","Summary Quote",
-"GOED","1847 Goedeker Inc.","7.22","$44.12M","2020","Consumer Services","Home Furnishings","https://old.nasdaq.com/symbol/goed",
-"XXII","22nd Century Group, Inc","2.21","$306.88M","n/a","Consumer Non-Durables","Farming/Seeds/Milling","https://old.nasdaq.com/symbol/xxii",
-"FAX","Aberdeen Asia-Pacific Income Fund Inc","4.45","$1.1B","1986","n/a","n/a","https://old.nasdaq.com/symbol/fax",
-"IAF","Aberdeen Australia Equity Fund Inc","5.32","$120.99M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/iaf",
-"AEF","Aberdeen Emerging Markets Equity Income Fund, Inc.","8.18","$415.15M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/aef",
-"FCO","Aberdeen Global Income Fund, Inc.","7.87","$68.66M","1992","n/a","n/a","https://old.nasdaq.com/symbol/fco",
-"ACU","Acme United Corporation.","29.37","$98.06M","1988","Capital Goods","Industrial Machinery/Components","https://old.nasdaq.com/symbol/acu",
-"ATNM","Actinium Pharmaceuticals, Inc.","11.34","$154.07M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/atnm",
-"AE","Adams Resources & Energy, Inc.","29.29","$124.26M","n/a","Energy","Oil Refining/Marketing","https://old.nasdaq.com/symbol/ae",
-"ACY","AeroCentury Corp.","2.42","$3.74M","n/a","Technology","Diversified Commercial Services","https://old.nasdaq.com/symbol/acy",
-"UAVS","AgEagle Aerial Systems, Inc.","4.05","$234.82M","n/a","Capital Goods","Aerospace","https://old.nasdaq.com/symbol/uavs",
-"AGE","AgeX Therapeutics, Inc.","1.66","$62.56M","2018","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/age",
-"AIRI","Air Industries Group","1.16","$36.81M","n/a","Capital Goods","Military/Government/Technical","https://old.nasdaq.com/symbol/airi",
-"AXU","Alexco Resource Corp","2.73","$374.17M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/axu",
-"AAU","Almaden Minerals, Ltd.","0.7702","$92.85M","2015","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/aau",
-"APT","Alpha Pro Tech, Ltd.","12.47","$169.32M","n/a","Health Care","Industrial Specialties","https://old.nasdaq.com/symbol/apt",
-"AAMC","Altisource Asset Management Corp","22.16","$36.57M","n/a","Finance","Real Estate","https://old.nasdaq.com/symbol/aamc",
-"AMBO","Ambow Education Holding Ltd.","2.17","$50.38M","n/a","Consumer Services","Other Consumer Services","https://old.nasdaq.com/symbol/ambo",
-"DIT","AMCON Distributing Company","90","$49.63M","n/a","Consumer Non-Durables","Food Distributors","https://old.nasdaq.com/symbol/dit",
-"AMS","American Shared Hospital Services","2.04","$11.75M","n/a","Health Care","Medical Specialities","https://old.nasdaq.com/symbol/ams",
-"USAS","Americas Gold and Silver Corporation","2.99","$352.75M","2017","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/usas",
-"AP.WS","Ampco-Pittsburgh Corporation","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/ap.ws",
-"AMPE","Ampio Pharmaceuticals, Inc.","2.41","$445.98M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/ampe",
-"ANVS","Annovis Bio, Inc.","6.15","$42.38M","2020","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/anvs",
-"ARMP","Armata Pharmaceuticals, Inc.","2.76","$51.62M","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","https://old.nasdaq.com/symbol/armp",
-"AINC","Ashford Inc.","5.1","$13.03M","2014","Consumer Services","Professional Services","https://old.nasdaq.com/symbol/ainc",
-"AWX","Avalon Holdings Corporation","2.24","$8.68M","n/a","Public Utilities","Environmental Services","https://old.nasdaq.com/symbol/awx",
-"ASM","Avino Silver","1.12","$100.32M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/asm",
-"BTG","B2Gold Corp","5.59","$5.87B","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/btg",
-"BTN","Ballantyne Strong, Inc","1.77","$26.18M","n/a","Miscellaneous","Industrial Machinery/Components","https://old.nasdaq.com/symbol/btn",
-"BCV","Bancroft Fund Limited","29.9","$160.06M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/bcv",
-"BCV^A","Bancroft Fund Limited","25.8","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/bcv^a",
-"BHB","Bar Harbor Bankshares, Inc.","22.74","$339.48M","n/a","Finance","Major Banks","https://old.nasdaq.com/symbol/bhb",
-"BRN","Barnwell Industries, Inc.","1.2","$9.93M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/brn",
-"BATL","Battalion Oil Corporation","7.73","$125.26M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/batl",
-"BIOX","Bioceres Crop Solutions Corp.","5.5","$221.79M","2018","Basic Industries","Agricultural Chemicals","https://old.nasdaq.com/symbol/biox",
-"PHGE","BiomX Inc.","6.1","$141.81M","2019","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","https://old.nasdaq.com/symbol/phge",
-"PHGE.U","BiomX Inc.","n/a","n/a","2018","n/a","n/a","https://old.nasdaq.com/symbol/phge.u",
-"PHGE.WS","BiomX Inc.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/phge.ws",
-"BGI","Birks Group Inc.","0.8339","$14.99M","n/a","Consumer Services","Consumer Specialties","https://old.nasdaq.com/symbol/bgi",
-"BKTI","BK Technologies Corporation","2.82","$35.28M","n/a","Technology","Radio And Television Broadcasting And Communications Equipment","https://old.nasdaq.com/symbol/bkti",
-"BDR","Blonder Tongue Laboratories, Inc.","1.24","$12.56M","n/a","Technology","Radio And Television Broadcasting And Communications Equipment","https://old.nasdaq.com/symbol/bdr",
-"BRBS","Blue Ridge Bankshares, Inc.","17.14","$98.02M","n/a","Finance","Major Banks","https://old.nasdaq.com/symbol/brbs",
-"BRG","Bluerock Residential Growth REIT, Inc.","11.96","$285.22M","2014","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/brg",
-"BRG^A","Bluerock Residential Growth REIT, Inc.","25.714","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/brg^a",
-"BRG^C","Bluerock Residential Growth REIT, Inc.","26.25","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/brg^c",
-"BRG^D","Bluerock Residential Growth REIT, Inc.","25.56","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/brg^d",
-"DMF","BNY Mellon Municipal Income Inc.","8.71","$180.74M","1988","n/a","n/a","https://old.nasdaq.com/symbol/dmf",
-"BWL.A","Bowl America, Inc.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/bwl.a",
-"BRMK.WS","Broadmark Realty Capital Inc.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/brmk.ws",
-"CMCL","Caledonia Mining Corporation Plc","16.19","$196.2M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/cmcl",
-"CEI","Camber Energy, Inc.","0.8651","$21.63M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/cei",
-"CANF","Can-Fite Biopharma Ltd","1.87","$28.82M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/canf",
-"YCBD","cbdMD, Inc.","2.62","$136.58M","2017","Consumer Non-Durables","Package Goods/Cosmetics","https://old.nasdaq.com/symbol/ycbd",
-"YCBD^A","cbdMD, Inc.","7.7","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/ycbd^a",
-"CVM","Cel-Sci Corporation","13.08","$506.93M","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","https://old.nasdaq.com/symbol/cvm",
-"CET","Central Securities Corporation","31.8","$820.03M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/cet",
-"LEU","Centrus Energy Corp.","24.14","$290.64M","2014","Basic Industries","Mining & Quarrying of Nonmetallic Minerals (No Fuels)","https://old.nasdaq.com/symbol/leu",
-"CHAQ","Chardan Healthcare Acquisition 2 Corp.","10.15","$109.4M","2020","Finance","Business Services","https://old.nasdaq.com/symbol/chaq",
-"CHAQ.U","Chardan Healthcare Acquisition 2 Corp.","n/a","n/a","2020","n/a","n/a","https://old.nasdaq.com/symbol/chaq.u",
-"CHAQ.WS","Chardan Healthcare Acquisition 2 Corp.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/chaq.ws",
-"CCF","Chase Corporation","110.1","$1.04B","n/a","Consumer Durables","Building Products","https://old.nasdaq.com/symbol/ccf",
-"CQP","Cheniere Energy Partners, LP","35.15","$17.01B","2007","Public Utilities","Oil/Gas Transmission","https://old.nasdaq.com/symbol/cqp",
-"LNG","Cheniere Energy, Inc.","58.15","$14.67B","n/a","Public Utilities","Oil/Gas Transmission","https://old.nasdaq.com/symbol/lng",
-"CVR","Chicago Rivet & Machine Co.","23.61","$22.81M","n/a","Technology","Industrial Machinery/Components","https://old.nasdaq.com/symbol/cvr",
-"CPHI","China Pharma Holdings, Inc.","0.432","$18.83M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/cphi",
-"CKX","CKX Lands, Inc.","9.05","$17.58M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/ckx",
-"GLV","Clough Global Dividend and Income Fund","10.27","$86.35M","2004","n/a","n/a","https://old.nasdaq.com/symbol/glv",
-"GLQ","Clough Global Equity Fund","13.69","$181.13M","2005","n/a","n/a","https://old.nasdaq.com/symbol/glq",
-"GLO","Clough Global Opportunities Fund","11.1","$357.69M","2006","n/a","n/a","https://old.nasdaq.com/symbol/glo",
-"COHN","Cohen & Company Inc.","15.5","$20.68M","n/a","Finance","Investment Bankers/Brokers/Service","https://old.nasdaq.com/symbol/cohn",
-"CIX","CompX International Inc.","14.5","$180.54M","1998","Capital Goods","Industrial Machinery/Components","https://old.nasdaq.com/symbol/cix",
-"LODE","Comstock Mining, Inc.","1","$34.44M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/lode",
-"CDOR","Condor Hospitality Trust, Inc.","3.53","$42.41M","n/a","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/cdor",
-"CHFW.U","Consonance-HFW Acquisition Corp.","n/a","n/a","2020","n/a","n/a","https://old.nasdaq.com/symbol/chfw.u",
-"MCF","Contango Oil & Gas Company","2.27","$394.27M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/mcf",
-"CMT","Core Molding Technologies Inc","13.57","$108.18M","n/a","Consumer Non-Durables","Plastic Products","https://old.nasdaq.com/symbol/cmt",
-"CRMD","CorMedix Inc.","7.98","$256.42M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/crmd",
-"CRF","Cornerstone Strategic Return Fund, Inc. (The)","11.38","$457.89M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/crf",
-"CLM","Cornerstone Strategic Value Fund, Inc.","11.61","$883.77M","1987","n/a","n/a","https://old.nasdaq.com/symbol/clm",
-"CVU","CPI Aerostructures, Inc.","3.87","$46.25M","n/a","Capital Goods","Military/Government/Technical","https://old.nasdaq.com/symbol/cvu",
-"CIK","Credit Suisse Asset Management Income Fund, Inc.","3.16","$165.28M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/cik",
-"DHY","Credit Suisse High Yield Bond Fund","2.285","$236.51M","1998","n/a","n/a","https://old.nasdaq.com/symbol/dhy",
-"CRHM","CRH Medical Corporation","2.87","$204.96M","2015","Health Care","Medical/Nursing Services","https://old.nasdaq.com/symbol/crhm",
-"CTO","CTO Realty Growth, Inc.","40.25","$189.85M","n/a","Finance","Real Estate","https://old.nasdaq.com/symbol/cto",
-"CTEK","CynergisTek, Inc.","1.55","$16.51M","2017","Miscellaneous","Business Services","https://old.nasdaq.com/symbol/ctek",
-"DXR","Daxor Corporation","12.66","$50.81M","n/a","Health Care","Medical/Dental Instruments","https://old.nasdaq.com/symbol/dxr",
-"VCF","Delaware Investments Colorado Municipal Income Fund, Inc","14.1","$68.2M","1993","n/a","n/a","https://old.nasdaq.com/symbol/vcf",
-"VFL","Delaware Investments Florida Insured Municipal Income Fund","13.04","$59.05M","1993","n/a","n/a","https://old.nasdaq.com/symbol/vfl",
-"VMM","Delaware Investments Minnesota Municipal Income Fund II, Inc.","12.9701","$149.22M","1993","n/a","n/a","https://old.nasdaq.com/symbol/vmm",
-"DLA","Delta Apparel, Inc.","21.8","$150.2M","n/a","Consumer Non-Durables","Apparel","https://old.nasdaq.com/symbol/dla",
-"DNN","Denison Mine Corp","0.5948","$403.08M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/dnn",
-"DSS","Document Security Systems, Inc.","6.8","$39.69M","n/a","Consumer Durables","Containers/Packaging","https://old.nasdaq.com/symbol/dss",
-"DPW","DPW Holdings, Inc.","3.81","$70.44M","n/a","Capital Goods","Industrial Machinery/Components","https://old.nasdaq.com/symbol/dpw",
-"DXF","Dunxin Financial Holdings Limited","1.31","$27.35M","n/a","Finance","Finance: Consumer Services","https://old.nasdaq.com/symbol/dxf",
-"GRF","Eagle Capital Growth Fund, Inc.","7.29","$29.7M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/grf",
-"EVM","Eaton Vance California Municipal Bond Fund","11.63","$290.68M","2002","n/a","n/a","https://old.nasdaq.com/symbol/evm",
-"CEV","Eaton Vance California Municipal Income Trust","13.47","$96.09M","1999","n/a","n/a","https://old.nasdaq.com/symbol/cev",
-"EVV","Eaton Vance Limited Duration Income Fund","12.36","$1.44B","2003","n/a","n/a","https://old.nasdaq.com/symbol/evv",
-"EIM","Eaton Vance Municipal Bond Fund","13.32","$958.42M","2002","n/a","n/a","https://old.nasdaq.com/symbol/eim",
-"ENX","Eaton Vance New York Municipal Bond Fund","12.36","$223.94M","2002","n/a","n/a","https://old.nasdaq.com/symbol/enx",
-"EVY","Eaton Vance New York Municipal Income Trust","13.73","$74.17M","1999","n/a","n/a","https://old.nasdaq.com/symbol/evy",
-"ELMD","Electromed, Inc.","10.22","$87.96M","2011","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","https://old.nasdaq.com/symbol/elmd",
-"ELLO","Ellomay Capital Ltd.","34.3","$433.97M","n/a","Public Utilities","Electric Utilities: Central","https://old.nasdaq.com/symbol/ello",
-"ECF","Ellsworth Growth and Income Fund Ltd.","13.81","$182.36M","1986","n/a","n/a","https://old.nasdaq.com/symbol/ecf",
-"ECF^A","Ellsworth Growth and Income Fund Ltd.","26.1","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/ecf^a",
-"EMAN","eMagin Corporation","1.31","$88.42M","n/a","Technology","Semiconductors","https://old.nasdaq.com/symbol/eman",
-"MSN","Emerson Radio Corporation","0.98","$20.62M","n/a","Consumer Non-Durables","Consumer Electronics/Appliances","https://old.nasdaq.com/symbol/msn",
-"EMX","EMX Royalty Corporation","3","$253.01M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/emx",
-"UUUU","Energy Fuels Inc","3.49","$457.45M","n/a","Basic Industries","Mining & Quarrying of Nonmetallic Minerals (No Fuels)","https://old.nasdaq.com/symbol/uuuu",
-"UUUU.WS","Energy Fuels Inc","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/uuuu.ws",
-"ENSV","ENSERVCO Corporation","1.91","$9.82M","n/a","Energy","Oilfield Services/Equipment","https://old.nasdaq.com/symbol/ensv",
-"ELA","Envela Corporation","4.84","$130.31M","n/a","Consumer Services","Consumer Specialties","https://old.nasdaq.com/symbol/ela",
-"EQX","Equinox Gold Corp.","10.26","$2.48B","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/eqx",
-"ESP","Espey Mfg. & Electronics Corp.","20.74","$56.05M","n/a","Capital Goods","Industrial Machinery/Components","https://old.nasdaq.com/symbol/esp",
-"EVBN","Evans Bancorp, Inc.","28.47","$153.29M","n/a","Finance","Major Banks","https://old.nasdaq.com/symbol/evbn",
-"EVI","EVI Industries, Inc.","29.08","$384.11M","n/a","Consumer Services","Other Consumer Services","https://old.nasdaq.com/symbol/evi",
-"EPM","Evolution Petroleum Corporation, Inc.","2.64","$87M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/epm",
-"EXN","Excellon Resources Inc.","2.93","$93.96M","2020","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/exn",
-"FEN","First Trust Energy Income and Growth Fund","11.15","$223.23M","2004","n/a","n/a","https://old.nasdaq.com/symbol/fen",
-"BDL","Flanigan&#39;s Enterprises, Inc.","17.2","$31.97M","n/a","Consumer Services","Restaurants","https://old.nasdaq.com/symbol/bdl",
-"FSI","Flexible Solutions International Inc.","2.47","$30.23M","n/a","Basic Industries","Major Chemicals","https://old.nasdaq.com/symbol/fsi",
-"FTF","Franklin Limited Duration Income Trust","9","$271.25M","2003","n/a","n/a","https://old.nasdaq.com/symbol/ftf",
-"FSP","Franklin Street Properties Corp.","4.36","$467.95M","n/a","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/fsp",
-"FRD","Friedman Industries Inc.","6.76","$47.62M","n/a","Capital Goods","Steel/Iron Ore","https://old.nasdaq.com/symbol/frd",
-"FTSI","FTS International, Inc.","16.99","$237.86M","2020","Energy","Oilfield Services/Equipment","https://old.nasdaq.com/symbol/ftsi",
-"FURY","Fury Gold Mines Limited","1.4","$164.95M","2020","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/fury",
-"GAU","Galiano Gold Inc.","1.23","$275.8M","n/a","Basic Industries","Mining & Quarrying of Nonmetallic Minerals (No Fuels)","https://old.nasdaq.com/symbol/gau",
-"GGN","GAMCO Global Gold, Natural Reources & Income Trust ","3.52","$580.49M","2005","n/a","n/a","https://old.nasdaq.com/symbol/ggn",
-"GGN^B","GAMCO Global Gold, Natural Reources & Income Trust ","25.4999","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/ggn^b",
-"JOB","GEE Group Inc.","1.02","$18.02M","n/a","Technology","Diversified Commercial Services","https://old.nasdaq.com/symbol/job",
-"GSAT","Globalstar, Inc.","0.3301","$551.4M","2006","Consumer Services","Telecommunications Equipment","https://old.nasdaq.com/symbol/gsat",
-"GORO","Gold Resource Corporation","3.3","$237.16M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/goro",
-"GSV","Gold Standard Ventures Corporation","0.7975","$251.34M","n/a","Basic Industries","Mining & Quarrying of Nonmetallic Minerals (No Fuels)","https://old.nasdaq.com/symbol/gsv",
-"AUMN","Golden Minerals Company","0.654","$99.09M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/aumn",
-"GSS","Golden Star Resources, Ltd","3.78","$420.57M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/gss",
-"GV","Goldfield Corporation (The)","6.97","$170.92M","n/a","Basic Industries","Water Supply","https://old.nasdaq.com/symbol/gv",
-"GLDG","GoldMining Inc.","2.32","$342.5M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/gldg",
-"GDP","Goodrich Petroleum Corporation","11","$139.21M","2017","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/gdp",
-"GTE","Gran Tierra Energy Inc.","0.355","$130.28M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/gte",
-"GPL","Great Panther Mining Limited","0.8508","$301.8M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/gpl",
-"SIM","Grupo Simec, S.A. de C.V.","10","$1.54B","1993","Basic Industries","Steel/Iron Ore","https://old.nasdaq.com/symbol/sim",
-"AIM","Hemispherx BioPharma, Inc.","1.91","$75.81M","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","https://old.nasdaq.com/symbol/aim",
-"HLM^","Hillman Group Capital Trust","30.62","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/hlm^",
-"HMG","HMG/Courtland Properties, Inc.","11.1759","$11.26M","n/a","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/hmg",
-"HUSA","Houston American Energy Corporation","1.71","$11.93M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/husa",
-"HWM^","Howmet Aerospace Inc.","77.8","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/hwm^",
-"IBIO","iBio, Inc.","1.15","$243.53M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/ibio",
-"IBO","IBO (Listing Market - NYSE Amex Network B F)","24.84","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/ibo",
-"IMH","Impac Mortgage Holdings, Inc.","2.58","$54.77M","1997","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/imh",
-"IOR","Income Opportunity Realty Investors, Inc.","11.32","$47.18M","n/a","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/ior",
-"IGC","India Globalization Capital Inc.","1.86","$79.58M","n/a","Technology","Electronic Components","https://old.nasdaq.com/symbol/igc",
-"INDO","Indonesia Energy Corporation Limited","4.11","$30.45M","2019","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/indo",
-"INFU","InfuSystems Holdings, Inc.","17.2","$348.08M","n/a","Health Care","Medical/Dental Instruments","https://old.nasdaq.com/symbol/infu",
-"IHT","InnSuites Hospitality Trust","2.25","$20.58M","n/a","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/iht",
-"NSPR","InspireMD Inc.","0.33","$12.2M","n/a","Health Care","Medical/Dental Instruments","https://old.nasdaq.com/symbol/nspr",
-"NSPR.WS","InspireMD Inc.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/nspr.ws",
-"NSPR.WS.B","InspireMD Inc.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/nspr.ws.b",
-"ITRG","Integra Resources Corp.","3.81","$208.06M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/itrg",
-"INS","Intelligent Systems Corporation","39.49","$352.62M","1992","Technology","Computer Software: Prepackaged Software","https://old.nasdaq.com/symbol/ins",
-"THM","International Tower Hill Mines Ltd","1.49","$290.41M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/thm",
-"INTT","inTest Corporation","5.31","$55.91M","1997","Capital Goods","Electrical Products","https://old.nasdaq.com/symbol/intt",
-"INUV","Inuvo, Inc","0.39","$38.07M","n/a","Consumer Services","Advertising","https://old.nasdaq.com/symbol/inuv",
-"VKI","Invesco Advantage Municipal Income Trust II","11.23","$498.52M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/vki",
-"ISR","IsoRay, Inc.","0.44","$38.38M","n/a","Health Care","Medical/Dental Instruments","https://old.nasdaq.com/symbol/isr",
-"ISDR","Issuer Direct Corporation","20.5","$76.71M","n/a","Miscellaneous","Publishing","https://old.nasdaq.com/symbol/isdr",
-"ITP","IT Tech Packaging, Inc.","0.6767","$19.3M","n/a","Consumer Durables","Containers/Packaging","https://old.nasdaq.com/symbol/itp",
-"KLR","Kaleyra, Inc.","9","$263.93M","2018","Technology","EDP Services","https://old.nasdaq.com/symbol/klr",
-"KLR.WS","Kaleyra, Inc.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/klr.ws",
-"KIQ","Kelso Technologies Inc","0.5138","$24.24M","n/a","Capital Goods","Railroads","https://old.nasdaq.com/symbol/kiq",
-"LSF","Laird Superfood, Inc.","45.85","$406.91M","2020","Consumer Non-Durables","Packaged Foods","https://old.nasdaq.com/symbol/lsf",
-"LGL","LGL Group, Inc. (The)","9.82","$51.65M","n/a","Capital Goods","Industrial Machinery/Components","https://old.nasdaq.com/symbol/lgl",
-"LGL.WS","LGL Group, Inc. (The)","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/lgl.ws",
-"LCTX","Lineage Cell Therapeutics, Inc.","1.74","$260.97M","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","https://old.nasdaq.com/symbol/lctx",
-"MAG","MAG Silver Corporation","17.79","$1.69B","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/mag",
-"MHH","Mastech Digital, Inc","17.16","$195.28M","n/a","Consumer Services","Professional Services","https://old.nasdaq.com/symbol/mhh",
-"MTNB","Matinas Biopharma Holdings, Inc.","1.03","$205.23M","2017","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/mtnb",
-"MMX","Maverix Metals Inc.","5.22","$733.35M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/mmx",
-"MFAC","Megalith Financial Acquisition Corp.","13.5","$92.94M","2018","Finance","Major Banks","https://old.nasdaq.com/symbol/mfac",
-"MFAC.U","Megalith Financial Acquisition Corp.","n/a","n/a","2018","n/a","n/a","https://old.nasdaq.com/symbol/mfac.u",
-"MFAC.WS","Megalith Financial Acquisition Corp.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/mfac.ws",
-"IPB","Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificate","29.2025","n/a","n/a","Finance","Finance: Consumer Services","https://old.nasdaq.com/symbol/ipb",
-"MTA","Metalla Royalty & Streaming Ltd.","11.64","$456.45M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/mta",
-"MXC","Mexco Energy Corporation","5.63","$11.55M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/mxc",
-"MLSS","Milestone Scientific, Inc.","2.2","$140.13M","2015","Health Care","Industrial Specialties","https://old.nasdaq.com/symbol/mlss",
-"MYO","Myomo Inc.","7.19","$32.94M","2017","Health Care","Industrial Specialties","https://old.nasdaq.com/symbol/myo",
-"NNVC","NanoViricides, Inc.","3.51","$37.43M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/nnvc",
-"ATEST","NASDAQ TEST STOCK","25.04","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/atest",
-"ATEST.A","NASDAQ TEST STOCK","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/atest.a",
-"ATEST.B","NASDAQ TEST STOCK","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/atest.b",
-"ATEST.C","NASDAQ TEST STOCK","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/atest.c",
-"NHC","National HealthCare Corporation","68.02","$1.04B","n/a","Health Care","Hospital/Nursing Management","https://old.nasdaq.com/symbol/nhc",
-"NAVB","Navidea Biopharmaceuticals, Inc.","2.07","$55.24M","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","https://old.nasdaq.com/symbol/navb",
-"NTIP","Network-1 Technologies, Inc.","3.48","$83.64M","n/a","Miscellaneous","Multi-Sector Companies","https://old.nasdaq.com/symbol/ntip",
-"NBW","Neuberger Berman California Municipal Fund Inc","13.48","$74.83M","2002","n/a","n/a","https://old.nasdaq.com/symbol/nbw",
-"NHS","Neuberger Berman High Yield Strategies Fund","11.61","$226.87M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/nhs",
-"NML","Neuberger Berman MLP and Energy Income Fund Inc.","3.54","$200.57M","2013","n/a","n/a","https://old.nasdaq.com/symbol/nml",
-"NBH","Neuberger Berman Municipal Fund Inc.","14.92","$280.71M","2002","n/a","n/a","https://old.nasdaq.com/symbol/nbh",
-"NBO","Neuberger Berman New York Municipal Fund Inc.","12.22","$62.05M","2002","n/a","n/a","https://old.nasdaq.com/symbol/nbo",
-"NRO","Neuberger Berman Real Estate Securities Income Fund, Inc.","4.38","$207.7M","2003","n/a","n/a","https://old.nasdaq.com/symbol/nro",
-"NBA","New Beginnings Acquisition Corp.","10.05","$149.95M","2020","Finance","Business Services","https://old.nasdaq.com/symbol/nba",
-"NBA.U","New Beginnings Acquisition Corp.","n/a","n/a","2020","n/a","n/a","https://old.nasdaq.com/symbol/nba.u",
-"NBA.WS","New Beginnings Acquisition Corp.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/nba.ws",
-"GBR","New Concept Energy, Inc","1.74","$8.93M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/gbr",
-"NEN","New England Realty Associates Limited Partnership","50.535","$184.59M","n/a","Consumer Services","Building operators","https://old.nasdaq.com/symbol/nen",
-"NGD","New Gold Inc.","2.29","$1.55B","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/ngd",
-"NXE","Nexgen Energy Ltd.","2.83","$1.07B","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/nxe",
-"NAK","Northern Dynasty Minerals, Ltd.","0.3322","$169.11M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/nak",
-"NOG","Northern Oil and Gas, Inc.","9.43","$432.38M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/nog",
-"NBY","NovaBay Pharmaceuticals, Inc.","0.641","$26.78M","2007","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/nby",
-"NG","Novagold Resources Inc.","10.42","$3.44B","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/ng",
-"NTN","NTN Buzztime, Inc.","2.17","$6.43M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/ntn",
-"NES","Nuverra Environmental Solutions, Inc.","2.34","$36.91M","2017","Energy","Oilfield Services/Equipment","https://old.nasdaq.com/symbol/nes",
-"OBLG","Oblong Inc.","4.99","$37.96M","n/a","Technology","Computer Software: Programming, Data Processing","https://old.nasdaq.com/symbol/oblg",
-"OCX","OncoCyte Corporation","2.46","$165.44M","2015","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","https://old.nasdaq.com/symbol/ocx",
-"OGEN","Oragenics Inc.","0.42","$32.48M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/ogen",
-"PCG^A","Pacific Gas & Electric Co.","30.22","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/pcg^a",
-"PCG^B","Pacific Gas & Electric Co.","27.1655","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/pcg^b",
-"PCG^C","Pacific Gas & Electric Co.","25.95","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/pcg^c",
-"PCG^D","Pacific Gas & Electric Co.","26.64","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/pcg^d",
-"PCG^E","Pacific Gas & Electric Co.","25.06","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/pcg^e",
-"PCG^G","Pacific Gas & Electric Co.","24.3","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/pcg^g",
-"PCG^H","Pacific Gas & Electric Co.","23.76","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/pcg^h",
-"PCG^I","Pacific Gas & Electric Co.","22.35","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/pcg^i",
-"PTN","Palatin Technologies, Inc.","0.4401","$101.18M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/ptn",
-"PZG","Paramount Gold Nevada Corp.","1.1","$37.72M","2015","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/pzg",
-"PRK","Park National Corporation","100.19","$1.63B","n/a","Finance","Major Banks","https://old.nasdaq.com/symbol/prk",
-"ID","PARTS iD, Inc.","4.72","n/a","2017","Technology","Advertising","https://old.nasdaq.com/symbol/id",
-"PED","Pedevco Corp.","1.17","$84.78M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/ped",
-"HNW","Pioneer Diversified High Income Trust","14.65","$122.08M","2007","n/a","n/a","https://old.nasdaq.com/symbol/hnw",
-"PLAG","Planet Green Holdings Corp","2.1","$23.16M","n/a","Consumer Non-Durables","Packaged Foods","https://old.nasdaq.com/symbol/plag",
-"PLG","Platinum Group Metals Ltd.","4.97","$379.46M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/plg",
-"PLYM^A","Plymouth Industrial REIT, Inc.","26.05","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/plym^a",
-"PLM","Polymet Mining Corp.","3.76","$378.63M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/plm",
-"PW","Power REIT","31.05","$59.5M","n/a","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/pw",
-"PW^A","Power REIT","26.33","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/pw^a",
-"PLX","Protalix BioTherapeutics, Inc.","3.52","$117.35M","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","https://old.nasdaq.com/symbol/plx",
-"PTK","PTK Acquisition Corp.","10.26","$147.49M","2020","Finance","Business Services","https://old.nasdaq.com/symbol/ptk",
-"PTK.U","PTK Acquisition Corp.","n/a","n/a","2020","n/a","n/a","https://old.nasdaq.com/symbol/ptk.u",
-"PTK.WS","PTK Acquisition Corp.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/ptk.ws",
-"RLGT","Radiant Logistics, Inc.","5.81","$288.64M","n/a","Transportation","Oil Refining/Marketing","https://old.nasdaq.com/symbol/rlgt",
-"UTG","Reaves Utility Income Fund","32.93","$1.69B","2004","n/a","n/a","https://old.nasdaq.com/symbol/utg",
-"RHE","Regional Health Properties, Inc.","1.56","$2.63M","2017","Consumer Services","Real Estate","https://old.nasdaq.com/symbol/rhe",
-"RHE^A","Regional Health Properties, Inc.","2.08","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/rhe^a",
-"RCG","RENN Fund, Inc.","1.64","$9.76M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/rcg",
-"RVP","Retractable Technologies, Inc.","11.35","$383.82M","n/a","Health Care","Medical/Dental Instruments","https://old.nasdaq.com/symbol/rvp",
-"REI","Ring Energy, Inc.","0.7099","$57.98M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/rei",
-"SACC","Sachem Capital Corp.","24.62","n/a","2019","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/sacc",
-"SACH","Sachem Capital Corp.","4.03","$89.16M","2017","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/sach",
-"SCCB","Sachem Capital Corp.","24.965","n/a","2019","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/sccb",
-"SCCC","Sachem Capital Corp.","24.77","n/a","2020","Consumer Services","Real Estate Investment Trusts","https://old.nasdaq.com/symbol/sccc",
-"SNMP","Sanchez Midstream Partners LP","0.6033","$12.04M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/snmp",
-"SEB","Seaboard Corporation","3156.06","$3.66B","1996","Consumer Services","Farming/Seeds/Milling","https://old.nasdaq.com/symbol/seb",
-"SENS","Senseonics Holdings, Inc.","0.413","$101.46M","n/a","Capital Goods","Industrial Machinery/Components","https://old.nasdaq.com/symbol/sens",
-"SVT","Servotronics, Inc.","7.7","$19.16M","n/a","Capital Goods","Industrial Machinery/Components","https://old.nasdaq.com/symbol/svt",
-"SMTS","Sierra Metals Inc.","3.07","$499.8M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/smts",
-"SIF","SIFCO Industries, Inc.","3.96","$23.43M","n/a","Capital Goods","Aerospace","https://old.nasdaq.com/symbol/sif",
-"SVM","Silvercorp Metals Inc.","6.44","$1.13B","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/svm",
-"SILV","SilverCrest Metals Inc.","9.59","$1.24B","2018","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/silv",
-"XPL","Solitario Zinc Corp.","0.54","$31.38M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/xpl",
-"LOV","Spark Networks, Inc.","4.91","$127.94M","2017","Consumer Services","Other Consumer Services","https://old.nasdaq.com/symbol/lov",
-"STXS","Stereotaxis, Inc.","5.19","$382.43M","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","https://old.nasdaq.com/symbol/stxs",
-"SSY","SunLink Health Systems, Inc.","1.05","$7.24M","n/a","Health Care","Hospital/Nursing Management","https://old.nasdaq.com/symbol/ssy",
-"SDPI","Superior Drilling Products, Inc.","0.51","$13.06M","2014","Energy","Metal Fabrications","https://old.nasdaq.com/symbol/sdpi",
-"SYN","Synthetic Biologics, Inc","0.32","$6.4M","n/a","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/syn",
-"TKAT","Takung Art Co., Ltd.","2.29","$25.81M","n/a","Consumer Services","Other Specialty Stores","https://old.nasdaq.com/symbol/tkat",
-"TALO.WS","Talos Energy, Inc.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/talo.ws",
-"TRX","Tanzanian Gold Corporation","0.6351","$128.17M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/trx",
-"TGB","Taseko Mines Limited","1.29","$360.17M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/tgb",
-"TGC","Tengasco, Inc.","1.3","$13.89M","n/a","Energy","Oil & Gas Production","https://old.nasdaq.com/symbol/tgc",
-"GLU","The Gabelli Global Utility and Income Trust","18.4","$98.87M","2004","n/a","n/a","https://old.nasdaq.com/symbol/glu",
-"GLU^A","The Gabelli Global Utility and Income Trust","46.57","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/glu^a",
-"GLU^B","The Gabelli Global Utility and Income Trust","51.9","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/glu^b",
-"GGO","The Gabelli Go Anywhere Trust","11.9","$18.44M","2016","n/a","n/a","https://old.nasdaq.com/symbol/ggo",
-"GGO^A","The Gabelli Go Anywhere Trust","40.8001","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/ggo^a",
-"TDW.WS","Tidewater Inc.","n/a","n/a","n/a","n/a","n/a","https://old.nasdaq.com/symbol/tdw.ws",
-"TMBR","Timber Pharmaceuticals, Inc.","0.7903","$9.36M","2015","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/tmbr",
-"TMP","Tompkins Financial Corporation","69.95","$1.04B","n/a","Finance","Major Banks","https://old.nasdaq.com/symbol/tmp",
-"TAT","Transatlantic Petroleum Ltd","0.246","$18.78M","n/a","n/a","n/a","https://old.nasdaq.com/symbol/tat",
-"TRXC","TransEnterix, Inc.","0.552","$55.15M","n/a","Health Care","Medical/Dental Instruments","https://old.nasdaq.com/symbol/trxc",
-"TMQ","Trilogy Metals Inc.","1.96","$280.29M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/tmq",
-"TPHS","Trinity Place Holdings Inc.","1.26","$40.54M","n/a","Consumer Services","Building operators","https://old.nasdaq.com/symbol/tphs",
-"TRT","Trio-Tech International","3.75","$13.91M","n/a","Technology","Industrial Machinery/Components","https://old.nasdaq.com/symbol/trt",
-"UFAB","Unique Fabricating, Inc.","5.86","$57.31M","2015","Capital Goods","Auto Parts:O.E.M.","https://old.nasdaq.com/symbol/ufab",
-"UAMY","United States Antimony Corporation","0.427","$32.34M","n/a","Capital Goods","Metal Fabrications","https://old.nasdaq.com/symbol/uamy",
-"UUU","Universal Security Instruments, Inc.","2.95","$6.82M","n/a","Technology","Electronic Components","https://old.nasdaq.com/symbol/uuu",
-"URG","Ur Energy Inc","0.689","$116.9M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/urg",
-"UEC","Uranium Energy Corp.","1.81","$360M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/uec",
-"VGZ","Vista Gold Corporation","1.08","$110.9M","n/a","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/vgz",
-"VNRX","VolitionRX Limited","4.09","$197.13M","2015","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","https://old.nasdaq.com/symbol/vnrx",
-"VOLT","Volt Information Sciences, Inc.","1.84","$39.93M","n/a","Technology","Professional Services","https://old.nasdaq.com/symbol/volt",
-"EAD","Wells Fargo Income Opportunities Fund","8.08","$489.83M","2003","n/a","n/a","https://old.nasdaq.com/symbol/ead",
-"ERC","Wells Fargo Multi-Sector Income Fund","12.1","$363.97M","2003","n/a","n/a","https://old.nasdaq.com/symbol/erc",
-"ERH","Wells Fargo Utilities and High Income Fund","12.7","$117.79M","2004","n/a","n/a","https://old.nasdaq.com/symbol/erh",
-"WRN","Western Copper and Gold Corporation","1.29","$174.92M","2011","Basic Industries","Precious Metals","https://old.nasdaq.com/symbol/wrn",
-"WYY","WidePoint Corporation","9.66","$81.71M","n/a","Technology","EDP Services","https://old.nasdaq.com/symbol/wyy",
-"WTT","Wireless Telecom Group,  Inc.","1.7","$36.88M","n/a","Capital Goods","Electrical Products","https://old.nasdaq.com/symbol/wtt",
-"XTNT","Xtant Medical Holdings, Inc.","1.16","$89.16M","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","https://old.nasdaq.com/symbol/xtnt",
-"ZDGE","Zedge, Inc.","5.23","$65.5M","2016","Technology","Computer Software: Prepackaged Software","https://old.nasdaq.com/symbol/zdge",
-"ZOM","Zomedica Corp.","0.2067","$116.59M","2017","Health Care","Major Pharmaceuticals","https://old.nasdaq.com/symbol/zom",
+Symbol,Name,Last Sale,Net Change,% Change,Market Cap,Country,IPO Year,Volume,Sector,Industry
+AAMC,Altisource Asset Management Corp Com,$17.98,-0.18,-0.991%,36828776.00,United States,,104789,Finance,Real Estate
+AAU,Almaden Minerals Ltd. Common Shares,$0.7199,0.0179,2.55%,87324053.00,Canada,2015,1101322,Basic Industries,Precious Metals
+ACU,Acme United Corporation. Common Stock,$41.601,0.2561,0.619%,138902120.00,United States,1988,8706,Capital Goods,Industrial Machinery/Components
+ACY,AeroCentury Corp. Common Stock,$9.00,0.23,2.623%,13912956.00,United States,,150606,Technology,Diversified Commercial Services
+AE,Adams Resources & Energy Inc. Common Stock,$32.39,0.07,0.217%,137690376.00,United States,,5408,Energy,Oil Refining/Marketing
+AEF,Aberdeen Emerging Markets Equity Income Fund Inc. Common Stock,$8.74,-0.11,-1.243%,443570540.00,United States,,46924,,
+AGE,AgeX Therapeutics Inc. Common Stock,$1.95,-0.08,-3.941%,73497542.00,,2018,642068,Health Care,Major Pharmaceuticals
+AIM,AIM ImmunoTech Inc. Common Stock,$2.28,0.05,2.242%,90493227.00,United States,,431696,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+AINC,Ashford Inc. (Holding Company) Common Stock,$8.45,0.16,1.93%,23966372.00,United States,2014,21499,Consumer Services,Professional Services
+AIRI,Air Industries Group Common Stock,$1.53,0.02,1.325%,48546525.00,United States,,228165,Capital Goods,Military/Government/Technical
+AMBO,Ambow Education Holding Ltd. American Depository Shares each representing two Class A ordinary shares,$2.51,0.01,0.40%,58270493.00,China,,288103,Consumer Services,Other Consumer Services
+AMPE,Ampio Pharmaceuticals Inc.,$1.86,0.10,5.682%,363870178.00,United States,,3036201,Health Care,Major Pharmaceuticals
+AMS,American Shared Hospital Services Common Stock,$2.67,-0.05,-1.838%,15381870.00,United States,,38658,Health Care,Medical Specialities
+ANVS,Annovis Bio Inc. Common Stock,$29.35,0.97,3.418%,203891632.00,United States,2020,111429,Health Care,Major Pharmaceuticals
+APT,Alpha Pro Tech Ltd. Common Stock,$10.40,-0.03,-0.288%,139566409.00,Canada,,462804,Health Care,Industrial Specialties
+ARMP,Armata Pharmaceuticals Inc. Common Stock,$5.49,0.00,0.00%,113139968.00,United States,,14615,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+ASM,Avino Silver & Gold Mines Ltd. Common Shares (Canada),$1.33,0.01,0.758%,132706395.00,Canada,,1134239,Basic Industries,Precious Metals
+ASXC,Asensus Surgical Inc. Common Stock,$4.14,-0.06,-1.429%,930366393.00,United States,,14741219,,
+ATNM,Actinium Pharmaceuticals Inc. (Delaware) Common Stock,$9.18,0.57,6.62%,124724300.00,United States,,401201,Health Care,Major Pharmaceuticals
+AUMN,Golden Minerals Company Common Stock,$0.714,0.004,0.563%,116003303.00,United States,,730558,Basic Industries,Precious Metals
+AWX,Avalon Holdings Corporation Common Stock,$4.00,0.51,14.613%,15501724.00,United States,,201422,Public Utilities,Environmental Services
+AXU,Alexco Resource Corp Common Shares (Canada),$2.48,-0.06,-2.362%,346614576.00,Canada,,948042,Basic Industries,Precious Metals
+BATL,Battalion Oil Corporation Common Stock,$12.71,-0.04,-0.314%,206755565.00,,,59938,Energy,Oil & Gas Production
+BCV,Bancroft Fund Ltd.,$30.83,0.07,0.228%,164169473.00,United States,,14592,,
+BCV^A,Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares,$25.8799,0.0399,0.154%,,United States,,260,,
+BDL,Flanigan's Enterprises Inc. Common Stock,$23.83,-0.65,-2.655%,44291558.00,United States,,445,Consumer Services,Restaurants
+BDR,Blonder Tongue Laboratories Inc. Common Stock,$1.5399,0.0399,2.66%,17863883.00,United States,,544612,Technology,Radio And Television Broadcasting And Communications Equipment
+BGI,Birks Group Inc. Common Stock,$4.01,-0.02,-0.496%,72063233.00,Canada,,1644565,Consumer Services,Consumer Specialties
+BHB,Bar Harbor Bankshares Inc. Common Stock,$31.23,0.00,0.00%,466219085.00,United States,,18326,Finance,Major Banks
+BIOX,Bioceres Crop Solutions Corp. Ordinary Shares,$8.11,0.08,0.996%,327042457.00,,2018,15230,Basic Industries,Agricultural Chemicals
+BKTI,BK Technologies Corporation Common Stock,$5.00,0.02,0.402%,62559830.00,United States,,41401,Technology,Radio And Television Broadcasting And Communications Equipment
+BMTX,BM Technologies Inc. Common Stock,$11.94,0.05,0.421%,145671606.00,,2018,26676,Finance,Major Banks
+BRBS,Blue Ridge Bankshares Inc. Common Stock,$21.50,0.25,1.176%,265446525.00,,,15596,Finance,Major Banks
+BRG,Bluerock Residential Growth REIT Inc. Class A Common Stock,$11.96,0.34,2.926%,274811259.00,,2014,172016,Consumer Services,Real Estate Investment Trusts
+BRG^C,Bluerock Residential Growth REIT Inc. 7.625% Series C Cumulative Redeemable Preferred Stock,$25.875,-0.1149,-0.442%,,,,1795,,
+BRG^D,Bluerock Residential Growth REIT Inc. 7.125% Series D Cumulative Preferred Stock ($0.01 par value per share),$25.90,0.0396,0.153%,,,,373,,
+BRN,Barnwell Industries Inc. Common Stock,$3.04,-0.03,-0.977%,25162566.00,United States,,146904,Energy,Oil & Gas Production
+BTG,B2Gold Corp Common shares (Canada),$4.51,-0.05,-1.096%,4743552731.00,Canada,,5684593,Basic Industries,Precious Metals
+BTN,Ballantyne Strong Inc. Common Stock,$2.77,0.00,0.00%,50422786.00,United States,,138945,Miscellaneous,Industrial Machinery/Components
+BWL/A,Bowl America Inc.,$11.22,0.17,1.538%,,United States,,2764,,
+CANF,Can-Fite Biopharma Ltd Sponsored ADR (Israel),$1.98,-0.04,-1.98%,30519684.00,Israel,,364952,Health Care,Major Pharmaceuticals
+CCF,Chase Corporation Common Stock,$122.09,0.77,0.635%,1153309877.00,United States,,20100,Consumer Durables,Building Products
+CDOR,Condor Hospitality Trust Inc. Common Stock,$5.00,-0.04,-0.794%,60075575.00,United States,,14331,Consumer Services,Real Estate Investment Trusts
+CEI,Camber Energy Inc. Common Stock,$1.32,-0.03,-2.222%,33000000.00,United States,,4239820,Energy,Oil & Gas Production
+CET,Central Securities Corporation Common Stock,$37.32,0.09,0.242%,979291840.00,United States,,9044,,
+CEV,Eaton Vance California Municipal Income Trust Shares of Beneficial Interest,$13.16,0.02,0.152%,93877847.00,United States,1999,22367,,
+CHAQ,Chardan Healthcare Acquisition 2 Corp. Common Stock,$10.05,0.00,0.00%,108321965.00,,2020,23916,Finance,Business Services
+CHFW,Consonance-HFW Acquisition Corp. Class A Ordinary Shares,$9.95,-0.03,-0.301%,118743300.00,,2021,9686,,
+CIK,Credit Suisse Asset Management Income Fund Inc. Common Stock,$3.3097,-0.0903,-2.656%,173113624.00,United States,,1097075,,
+CIX,CompX International Inc. Common Stock,$14.85,-0.15,-1.00%,184899681.00,United States,1998,5328,Capital Goods,Industrial Machinery/Components
+CKX,CKX Lands Inc. Common Stock,$10.62,-0.002,-0.019%,20629297.00,United States,,441,Energy,Oil & Gas Production
+CLM,Cornerstone Strategic Value Fund Inc. New Common Stock,$13.41,-0.19,-1.397%,1041587353.00,United States,1987,824649,,
+CMCL,Caledonia Mining Corporation Plc Common Shares,$16.13,0.00,0.00%,195476615.00,Canada,,54969,Basic Industries,Precious Metals
+CMT,Core Molding Technologies Inc Common Stock,$11.89,-0.51,-4.113%,94785570.00,United States,,54161,Consumer Non-Durables,Plastic Products
+COHN,Cohen & Company Inc.,$26.50,-0.40,-1.487%,35218686.00,United States,,15342,Finance,Investment Bankers/Brokers/Service
+CPHI,China Pharma Holdings Inc. Common Stock,$0.9031,-0.0169,-1.837%,41162898.00,China,,194139,Health Care,Major Pharmaceuticals
+CQP,Cheniere Energy Partners LP Cheniere Energy Partners LP Common Units,$43.34,-0.27,-0.619%,20977475471.00,United States,2007,294957,Public Utilities,Oil/Gas Transmission
+CRF,Cornerstone Total Return Fund Inc. (The) Common Stock,$13.28,-0.14,-1.043%,545059114.00,United States,,438530,,
+CRHM,CRH Medical Corporation Common Shares of Beneficial Interest,$3.88,-0.01,-0.257%,277082766.00,,2015,434146,Health Care,Medical/Nursing Services
+CTEK,CynergisTek Inc. Common Stock,$2.26,-0.05,-2.165%,24073631.00,United States,2017,74904,Miscellaneous,Business Services
+CVM,Cel-Sci Corporation Common Stock,$20.45,0.52,2.609%,828823735.00,United States,,453541,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+CVR,Chicago Rivet & Machine Co. Common Stock,$28.11,-1.145,-3.914%,27157971.00,United States,,8632,Technology,Industrial Machinery/Components
+CVU,CPI Aerostructures Inc. Common Stock,$4.85,-0.02,-0.411%,57963664.00,United States,,38477,Capital Goods,Military/Government/Technical
+DHY,Credit Suisse High Yield Bond Fund Common Stock,$2.39,0.01,0.42%,247382691.00,United States,1998,1257948,,
+DIT,AMCON Distributing Company Common Stock,$123.9999,8.9999,7.826%,68369701.00,United States,,194,Consumer Non-Durables,Food Distributors
+DLA,Delta Apparel Inc. Common Stock,$27.86,1.55,5.891%,194314028.00,United States,,30506,Consumer Non-Durables,Apparel
+DMF,BNY Mellon Municipal Income Inc. Common Stock,$8.76,-0.12,-1.351%,181776990.00,United States,1988,18420,,
+DNN,Denison Mines Corp Ordinary Shares (Canada),$1.14,0.10,9.615%,824731007.00,Canada,,20417507,Basic Industries,Precious Metals
+DPW,Ault Global Holdings Inc. Common Stock,$3.80,-0.01,-0.262%,187398756.00,United States,,5757836,Capital Goods,Industrial Machinery/Components
+DSS,Document Security Systems Inc. Common Stock,$3.75,0.29,8.382%,103762969.00,United States,,4320592,Consumer Durables,Containers/Packaging
+DXF,Dunxin Financial Holdings Limited American Depositary Shares,$1.43,0.07,5.147%,29851063.00,China,,3167553,Finance,Finance: Consumer Services
+DXR,Daxor Corporation Common Stock,$12.15,-0.82,-6.322%,49011606.00,United States,,4449,Health Care,Medical/Dental Instruments
+EAD,Wells Fargo Income Opportunities Fund Common Shares,$8.34,-0.02,-0.239%,505289025.00,United States,2003,153057,,
+ECF,Ellsworth Growth and Income Fund Ltd.,$14.03,0.01,0.071%,185266950.00,United States,1986,26358,,
+ECF^A,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),$26.12,0.03,0.115%,,United States,,300,,
+EIM,Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,$13.04,-0.05,-0.382%,938269519.00,United States,2002,174180,,
+ELA,Envela Corporation Common Stock,$5.66,0.09,1.616%,152391996.00,United States,,47695,Consumer Services,Consumer Specialties
+ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),$30.50,0.00,0.00%,385888867.00,Israel,,322,Public Utilities,Electric Utilities: Central
+ELMD,Electromed Inc. Common Stock,$12.13,0.08,0.664%,104743096.00,United States,2011,49028,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+EMAN,eMagin Corporation Common Stock,$4.55,0.05,1.111%,307123189.00,United States,,791686,Technology,Semiconductors
+EMX,EMX Royalty Corporation Common Shares (Canada),$3.26,-0.01,-0.306%,274940120.00,Canada,,239037,Basic Industries,Precious Metals
+ENSV,Enservco Corporation Common Stock,$2.06,0.00,0.00%,21155061.00,United States,,247416,Energy,Oilfield Services/Equipment
+ENX,Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,$12.00,-0.05,-0.415%,217419528.00,United States,2002,33531,,
+EPM,Evolution Petroleum Corporation Inc. Common Stock,$4.10,-0.05,-1.205%,137311255.00,United States,,125838,Energy,Oil & Gas Production
+EQX,Equinox Gold Corp. Common Shares,$8.38,-0.03,-0.357%,2030929922.00,Canada,,1079962,Basic Industries,Precious Metals
+ERC,Wells Fargo Multi-Sector Income Fund Common Stock no par value,$12.36,-0.04,-0.323%,347712608.00,United States,2003,79306,,
+ERH,Wells Fargo Utilities and High Income Fund,$12.94,0.03,0.232%,120019341.00,,2004,11959,,
+ESP,Espey Mfg. & Electronics Corp. Common Stock,$15.26,-0.29,-1.865%,41242180.00,United States,,12350,Capital Goods,Industrial Machinery/Components
+EVBN,Evans Bancorp Inc. Common Stock,$36.04,0.81,2.299%,194044370.00,United States,,27941,Finance,Major Banks
+EVI,EVI Industries Inc.  Common Stock,$37.55,1.55,4.306%,460039657.00,United States,,9525,Consumer Services,Other Consumer Services
+EVM,Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,$11.43,0.04,0.351%,285685295.00,United States,2002,112609,,
+EVV,Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest,$12.66,0.00,0.00%,1470421248.00,United States,2003,363930,,
+EVY,Eaton Vance New York Municipal Income Trust Shares of Beneficial Interest,$14.06,-0.07,-0.495%,75949702.00,United States,1999,8098,,
+EXN,Excellon Resources Inc. Common Shares,$3.09,-0.01,-0.323%,99093210.00,,2020,112366,Basic Industries,Precious Metals
+FAX,Aberdeen Asia-Pacific Income Fund Inc Common Stock,$4.20,-0.07,-1.639%,1040322230.00,United States,1986,3248589,,
+FCO,Aberdeen Global Income Fund Inc. Common Stock,$8.09,-0.03,-0.369%,70633353.00,United States,1992,39740,,
+FEN,First Trust Energy Income and Growth Fund,$13.13,0.08,0.613%,259590144.00,United States,2004,55998,,
+FRD,Friedman Industries Inc. Common Stock,$8.66,0.13,1.524%,59804652.00,United States,,96401,Capital Goods,Steel/Iron Ore
+FSI,Flexible Solutions International Inc. Common Stock (CDA),$3.99,0.09,2.308%,48839775.00,Canada,,27906,Basic Industries,Major Chemicals
+FSP,Franklin Street Properties Corp. Common Stock,$6.59,0.22,3.454%,707292831.00,United States,,435840,Consumer Services,Real Estate Investment Trusts
+FTF,Franklin Limited Duration Income Trust Common Shares of Beneficial Interest,$9.26,-0.09,-0.963%,279085612.00,United States,2003,188521,,
+FTSI,FTS International Inc. Class A Common Stock,$25.79,1.24,5.051%,360801326.00,United States,2020,110053,Energy,Oilfield Services/Equipment
+FURY,Fury Gold Mines Limited Common Shares,$1.30,-0.01,-0.763%,153171014.00,,2020,298011,Basic Industries,Precious Metals
+GAU,Galiano Gold Inc.,$1.26,0.10,8.621%,282527938.00,Canada,,2298118,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+GBR,New Concept Energy Inc Common Stock,$5.78,-0.20,-3.344%,29662584.00,United States,,822547,Energy,Oil & Gas Production
+GDP,Goodrich Petroleum Corporation Common Stock,$10.69,0.14,1.327%,135290342.00,United States,2017,34217,Energy,Oil & Gas Production
+GGN,GAMCO Global Gold Natural Resources & Income Trust,$3.48,0.02,0.578%,543311631.00,United States,2005,984039,,
+GGN^B,GAMCO Global Gold Natural Reources & Income Trust 5.00% Series B Cumulative 25.00 Liquidation Preference,$25.345,-0.0149,-0.059%,,United States,,1200,,
+GGO,The Gabelli Go Anywhere Trust Common Shares of Beneficial Interest,$15.19,0.445,3.018%,23520606.00,,2016,101,,
+GGO^A,The Gabelli Go Anywhere Trust Series A Cumulative Puttable and Callable Preferred Shares,$41.20,0.30,0.733%,,,,250,,
+GLDG,GoldMining Inc. Common Shares,$1.67,0.02,1.212%,248382677.00,,,406104,Basic Industries,Precious Metals
+GLO,Clough Global Opportunities Fund Common Stock,$12.51,0.02,0.16%,403127394.00,United States,2006,129868,,
+GLQ,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,$15.38,-0.018,-0.117%,203490150.00,United States,2005,45923,,
+GLU,Gabelli Global Utility Common Shares of Beneficial Ownership,$19.45,0.07,0.361%,104516092.00,United States,2004,5166,,
+GLU^A,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares,$44.62,0.00,0.00%,,United States,,10,,
+GLU^B,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,$52.42,0.033,0.063%,,United States,,399,,
+GLV,Clough Global Dividend and Income Fund Common Shares of beneficial interest,$11.42,0.03,0.263%,96016208.00,United States,2004,32110,,
+GOED,1847 Goedeker Inc. Commom Stock,$10.35,-0.60,-5.479%,63250920.00,United States,2020,6211,Consumer Services,Home Furnishings
+GORO,Gold Resource Corporation Common Stock,$2.84,-0.01,-0.351%,211407342.00,United States,,850299,Basic Industries,Precious Metals
+GPL,Great Panther Mining Limited Ordinary Shares (Canada),$0.7892,-0.0635,-7.447%,279951194.00,Canada,,6621890,Basic Industries,Precious Metals
+GRF,Eagle Capital Growth Fund Inc. Common Stock,$8.20,-0.0097,-0.118%,33409432.00,United States,,1875,,
+GROY,Gold Royalty Corp. Common Shares,$5.00,0.28,5.932%,0.00,,2021,633213,,
+GSAT,Globalstar Inc. Common Stock,$1.61,0.01,0.625%,2701384762.00,United States,2006,11515653,Consumer Services,Telecommunications Equipment
+GSS,Golden Star Resources Ltd Common Stock,$3.16,-0.01,-0.315%,351750960.00,United States,,381023,Basic Industries,Precious Metals
+GSV,Gold Standard Ventures Corporation Common Stock (Canada),$0.6195,0.0124,2.042%,221456509.00,Canada,,3114024,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+GTE,Gran Tierra Energy Inc. Common Stock,$0.8355,-0.0109,-1.288%,306613090.00,Canada,,6183710,Energy,Oil & Gas Production
+HLM^,Hillman Group Capital Trust Preferred Stock,$25.8499,0.0549,0.213%,,United States,,10747,,
+HMG,HMG/Courtland Properties Inc. Common Stock,$13.00,0.00,0.00%,13094224.00,United States,,56,Consumer Services,Real Estate Investment Trusts
+HNW,Pioneer Diversified High Income Trust Pioneer Diversified High Income Trust Common Shares of Beneficial Interest,$14.77,0.00,0.00%,123075308.00,United States,2007,16461,,
+HUSA,Houston American Energy Corporation Common Stock,$2.22,-0.08,-3.478%,20171448.00,United States,,570132,Energy,Oil & Gas Production
+HWM^,Howmet Aerospace Inc. $3.75 Preferred Stock,$74.99,1.9067,2.609%,,United States,,3171,,
+IAF,Aberdeen Australia Equity Fund Inc Common Stock,$5.76,-0.04,-0.69%,133208646.00,United States,,32102,,
+IBIO,iBio Inc. Common Stock,$1.83,0.05,2.809%,395298174.00,United States,,4899429,Health Care,Major Pharmaceuticals
+ID,PARTS iD Inc. Class A Common Stock,$6.72,0.59,9.625%,220909638.00,United States,2017,45723,Technology,Advertising
+IGC,India Globalization Capital Inc. Common Stock,$1.85,0.01,0.543%,83927698.00,United States,,2286391,Technology,Electronic Components
+IHT,InnSuites Hospitality Trust Shares of Beneficial Interest,$2.77,0.12,4.528%,25185976.00,United States,,65452,Consumer Services,Real Estate Investment Trusts
+IMH,Impac Mortgage Holdings Inc. Common Stock ,$2.33,-0.66,-22.074%,49465567.00,United States,1997,1754717,Consumer Services,Real Estate Investment Trusts
+IMO,Imperial Oil Limited Common Stock,$25.84,0.29,1.135%,18968543349.00,Canada,,583241,Energy,Integrated oil Companies
+INDO,Indonesia Energy Corporation Limited Ordinary Shares,$7.80,-0.09,-1.141%,57782049.00,,2019,7505,Energy,Oil & Gas Production
+INFU,InfuSystems Holdings Inc. Common Stock,$19.75,0.72,3.783%,399679407.00,United States,,83805,Health Care,Medical/Dental Instruments
+INS,Intelligent Systems Corporation Common Stock,$39.26,-0.13,-0.33%,350548025.00,United States,1992,44773,Technology,Computer Software: Prepackaged Software
+INTT,inTest Corporation Common Stock,$10.38,-0.41,-3.80%,109292297.00,United States,1997,61232,Capital Goods,Electrical Products
+INUV,Inuvo Inc.,$1.21,0.05,4.31%,143401218.00,United States,,7656397,Consumer Services,Advertising
+IOR,Income Opportunity Realty Investors Inc. Common Stock,$11.9099,0.2686,2.307%,49643012.00,United States,,543,Consumer Services,Real Estate Investment Trusts
+ISDR,Issuer Direct Corporation Common Stock,$23.50,0.66,2.89%,88618547.00,United States,,12229,Miscellaneous,Publishing
+ISR,IsoRay Inc. Common Stock (DE),$1.26,0.04,3.279%,177911815.00,United States,,3046201,Health Care,Medical/Dental Instruments
+ITP,IT Tech Packaging Inc. Common Stock,$0.7229,0.0009,0.125%,71544256.00,China,,4340111,Consumer Durables,Containers/Packaging
+ITRG,Integra Resources Corp. Common Shares,$3.12,-0.01,-0.319%,170377512.00,,,35303,Basic Industries,Precious Metals
+JOB,GEE Group Inc. Common Stock,$1.73,-0.08,-4.42%,30564123.00,United States,,215614,Technology,Diversified Commercial Services
+KIQ,Kelso Technologies Inc Ordinary Shares,$0.9701,-0.0299,-2.99%,52550400.00,Canada,,1265429,Capital Goods,Railroads
+KLR,Kaleyra Inc. Common Stock,$17.44,-0.26,-1.469%,528234701.00,United States,2018,195430,Technology,EDP Services
+LCTX,Lineage Cell Therapeutics Inc. Common Stock,$2.48,0.14,5.983%,371953741.00,United States,,2535809,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+LEU,Centrus Energy Corp. Class A Common Stock,$24.99,0.09,0.361%,306656413.00,United States,2014,34586,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+LGL,LGL Group Inc. (The) Common Stock,$13.80,0.90,6.977%,72578975.00,United States,,14423,Capital Goods,Industrial Machinery/Components
+LNG,Cheniere Energy Inc. Common Stock,$75.14,1.07,1.445%,19050175447.00,United States,,1115734,Public Utilities,Oil/Gas Transmission
+LODE,Comstock Mining Inc. Common Stock,$4.19,-0.01,-0.238%,158866008.00,United States,,1336796,Basic Industries,Precious Metals
+LOV,Spark Networks Inc. American Depositary Shares (each representing one-tenth of an Ordinary Share),$5.78,-0.22,-3.667%,150608766.00,United States,2017,117002,Consumer Services,Other Consumer Services
+LSF,Laird Superfood Inc. Common Stock,$37.18,-0.26,-0.694%,329968410.00,,2020,131689,Consumer Non-Durables,Packaged Foods
+LXFR,Luxfer Holdings PLC Ordinary Shares,$21.95,0.58,2.714%,606613558.00,United Kingdom,2012,62633,Basic Industries,Major Chemicals
+MAG,MAG Silver Corporation Ordinary Shares,$16.63,-0.08,-0.479%,1575580780.00,Canada,,1069929,Basic Industries,Precious Metals
+MCF,Contango Oil & Gas Company Common Stock (TX),$4.76,-0.04,-0.833%,826753090.00,United States,,671746,Energy,Oil & Gas Production
+MHH,Mastech Digital Inc Common Stock,$17.94,0.13,0.73%,204152697.00,United States,,9195,Consumer Services,Professional Services
+MLSS,Milestone Scientific Inc. Common Stock,$4.56,0.01,0.22%,290442219.00,United States,2015,622733,Health Care,Industrial Specialties
+MMX,Maverix Metals Inc. Common Shares,$5.46,0.19,3.605%,767066167.00,,,1095488,Basic Industries,Precious Metals
+MSN,Emerson Radio Corporation Common Stock,$1.41,-0.06,-4.082%,29670139.00,United States,,128172,Consumer Non-Durables,Consumer Electronics/Appliances
+MTA,Metalla Royalty & Streaming Ltd. Common Shares,$9.92,0.16,1.639%,392991871.00,,,374283,Basic Industries,Precious Metals
+MTNB,Matinas Biopharma Holdings Inc. Common Stock,$1.20,0.01,0.84%,239570110.00,United States,2017,1522861,Health Care,Major Pharmaceuticals
+MXC,Mexco Energy Corporation Common Stock,$8.58,-0.22,-2.50%,17774894.00,United States,,12693,Energy,Oil & Gas Production
+MYO,Myomo Inc. Common Stock,$13.55,1.06,8.487%,62083227.00,United States,2017,146503,Health Care,Industrial Specialties
+NAK,Northern Dynasty Minerals Ltd. Common Stock,$0.7391,0.0156,2.156%,376236365.00,Canada,,18732139,Basic Industries,Precious Metals
+NAVB,Navidea Biopharmaceuticals Inc. Common Stock,$2.20,-0.0291,-1.305%,61566272.00,United States,,321326,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+NBA,New Beginnings Acquisition Corp. Common Stock,$10.08,0.04,0.398%,150393600.00,,2020,245877,Finance,Business Services
+NBH,Neuberger Berman Municipal Fund Inc. Common Stock,$15.58,-0.28,-1.765%,293185936.00,United States,2002,33282,,
+NBO,Neuberger Berman New York Municipal Fund Inc. Common Stock,$12.42,0.00,0.00%,63061519.00,United States,2002,269,,
+NBW,Neuberger Berman California Municipal Fund Inc Common Stock,$13.40,-0.07,-0.52%,74383990.00,United States,2002,13633,,
+NBY,NovaBay Pharmaceuticals Inc. Common Stock,$1.09,0.04,3.81%,45543017.00,United States,2007,8099823,Health Care,Major Pharmaceuticals
+NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,$55.37,-0.64,-1.143%,202249778.00,United States,,6566,Consumer Services,Building operators
+NES,Nuverra Environmental Solutions Inc. Common Stock,$2.62,0.215,8.94%,41323740.00,United States,2017,19442,Energy,Oilfield Services/Equipment
+NG,Novagold Resources Inc.,$8.61,0.15,1.773%,2852670538.00,Canada,,1031992,Basic Industries,Precious Metals
+NGD,New Gold Inc.,$1.73,0.05,2.976%,1177265000.00,Canada,,9471817,Basic Industries,Precious Metals
+NHC,National HealthCare Corporation Common Stock,$76.42,0.50,0.659%,1174578610.00,United States,,31704,Health Care,Hospital/Nursing Management
+NHS,Neuberger Berman High Yield Strategies Fund,$12.48,-0.08,-0.637%,243866501.00,United States,,28685,,
+NML,Neuberger Berman MLP and Energy Income Fund Inc. Common Stock,$4.31,0.00,0.00%,244199980.00,,2013,69531,,
+NNVC,NanoViricides Inc. Common Stock,$5.22,0.03,0.578%,55733940.00,United States,,282338,Health Care,Major Pharmaceuticals
+NOG,Northern Oil and Gas Inc. Common Stock,$14.11,-0.20,-1.398%,850591761.00,United States,,1100627,,
+NRO,Neuberger Berman Real Estate Securities Income Fund Inc. Neuberger Berman Real Estate Securities Income Fund Inc.,$4.44,0.06,1.37%,210546580.00,United States,2003,115549,,
+NSPR,InspireMD Inc. Common Stock,$0.7321,0.0023,0.315%,86264973.00,Israel,,5155272,Health Care,Medical/Dental Instruments
+NTIP,Network-1 Technologies Inc. Common Stock,$3.29,-0.03,-0.904%,79068820.00,United States,,18748,Miscellaneous,Multi-Sector Companies
+NTN,NTN Buzztime Inc. Common Stock,$3.92,0.06,1.554%,11627982.00,United States,,2344086,Health Care,Major Pharmaceuticals
+NXE,Nexgen Energy Ltd. Common Shares,$3.64,0.13,3.704%,1567129953.00,,,1914016,Basic Industries,Precious Metals
+OGEN,Oragenics Inc. Common Stock,$1.05,-0.03,-2.778%,115128425.00,United States,,6974559,Health Care,Major Pharmaceuticals
+ORLA,Orla Mining Ltd. Common Shares,$3.78,0.09,2.439%,865491480.00,,2020,521233,Basic Industries,Precious Metals
+PCG^A,Pacific Gas & Electric Co. 6% Preferred Stock,$28.86,-0.26,-0.893%,,United States,,3168,,
+PCG^B,Pacific Gas & Electric Co. 5 1/2% Preferred Stock,$26.50,-0.44,-1.633%,,United States,,1115,,
+PCG^D,Pacific Gas & Electric Co. 5% 1st  Red. Preferred Stock,$24.85,0.34,1.387%,,United States,,1855,,
+PCG^E,Pacific Gas & Electric Co. 5% 1st A Preferred Stock,$25.00,0.2113,0.852%,,United States,,201,,
+PED,Pedevco Corp. Common Stock,$1.64,0.07,4.459%,130311563.00,United States,,1145717,Energy,Oil & Gas Production
+PHGE,BiomX Inc. COmmon Stock,$7.58,0.06,0.798%,176212654.00,,2019,25183,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PLAG,Planet Green Holdings Corp. Common Stock,$2.65,0.12,4.743%,42208577.00,China,,122038,Consumer Non-Durables,Packaged Foods
+PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),$4.16,0.11,2.716%,307131248.00,Canada,,442476,Basic Industries,Precious Metals
+PLM,Polymet Mining Corporation Ordinary Shares (Canada),$3.98,0.10,2.577%,400784870.00,Canada,,221331,Basic Industries,Precious Metals
+PLX,Protalix BioTherapeutics Inc. (DE) Common Stock,$4.85,0.06,1.253%,220106730.00,Israel,,262562,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PLYM^A,Plymouth Industrial REIT Inc. 7.50% Series A Cumulative Redeemable Preferred Stock,$26.50,-0.40,-1.487%,,United States,,639,,
+PRK,Park National Corporation Common Stock,$140.17,1.24,0.893%,2286668902.00,United States,,49821,Finance,Major Banks
+PTK,PTK Acquisition Corp. Common Stock,$9.84,-0.01,-0.102%,141450000.00,United States,2020,78321,Finance,Business Services
+PTN,Palatin Technologies Inc. Common Stock,$0.745,0.0016,0.215%,171375559.00,United States,,2891422,Health Care,Major Pharmaceuticals
+PW,Power REIT (MD) Common Stock,$37.69,0.06,0.159%,124359399.00,United States,,18407,Consumer Services,Real Estate Investment Trusts
+PW^A,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,$26.13,0.13,0.50%,,United States,,221,,
+PZG,Paramount Gold Nevada Corp. Common Stock,$1.10,-0.01,-0.901%,39849201.00,United States,2015,546560,Basic Industries,Precious Metals
+RCG,RENN Fund Inc Common Stock,$2.66,0.03,1.141%,15832203.00,United States,,60163,,
+REI,Ring Energy Inc. Common Stock,$2.96,0.00,0.00%,241739056.00,United States,,4606939,Energy,Oil & Gas Production
+REPX,Riley Exploration Permian Inc. Common Stock,$26.82,0.13,0.487%,477138957.00,United States,,30346,Energy,Oil & Gas Production
+RHE,Regional Health Properties Inc. Common Stock,$5.50,-0.18,-3.169%,9285205.00,,2017,36294,Consumer Services,Real Estate
+RHE^A,Regional Health Properties Inc. 10.875% Series A Cumulative Redeemable Preferred Stock,$2.79,0.12,4.494%,,,,245,,
+RLGT,Radiant Logistics Inc. Common Stock,$7.16,-0.07,-0.968%,357767579.00,United States,,466865,Transportation,Oil Refining/Marketing
+RMED,Ra Medical Systems Inc. Common Stock,$6.18,0.01,0.162%,19921675.00,,2018,112568,Health Care,Medical/Dental Instruments
+RVP,Retractable Technologies Inc. Common Stock,$13.65,0.85,6.641%,461596645.00,United States,,726400,Health Care,Medical/Dental Instruments
+SACC,Sachem Capital Corp. 6.875% Notes due 2024,$25.15,-0.12,-0.475%,0.00,United States,2019,4337,Consumer Services,Real Estate Investment Trusts
+SACH,Sachem Capital Corp. Common Shares,$4.81,0.09,1.907%,106420293.00,United States,2017,155697,Consumer Services,Real Estate Investment Trusts
+SCCB,Sachem Capital Corp. 7.125% Notes due 2024,$25.55,-0.1044,-0.407%,0.00,United States,2019,3695,Consumer Services,Real Estate Investment Trusts
+SCCC,Sachem Capital Corp. 7.75% Notes due 2025,$25.44,-0.34,-1.319%,0.00,United States,2020,5640,Consumer Services,Real Estate Investment Trusts
+SDPI,Superior Drilling Products Inc. Common Stock,$1.01,-0.04,-3.81%,25873661.00,,2014,452399,Energy,Metal Fabrications
+SEB,Seaboard Corporation Common Stock,$3748.75,3.12,0.083%,4351470276.00,United States,1996,1089,Consumer Services,Farming/Seeds/Milling
+SENS,Senseonics Holdings Inc. Common Stock,$3.17,-0.15,-4.518%,1197889956.00,United States,,35723808,Capital Goods,Industrial Machinery/Components
+SIF,SIFCO Industries Inc. Common Stock,$12.57,1.69,15.533%,74907509.00,United States,,135604,Capital Goods,Aerospace
+SILV,SilverCrest Metals Inc. Common Shares,$8.13,0.01,0.123%,1173630247.00,,2018,989502,Basic Industries,Precious Metals
+SIM,Grupo Simec S.A.B. de C.V. American Depositary Shares,$13.2261,0.4761,3.734%,2194250607.00,Mexico,1993,1236,Basic Industries,Steel/Iron Ore
+SMTS,Sierra Metals Inc. Common Stock,$2.93,0.00,0.00%,477004000.00,,,342912,Basic Industries,Precious Metals
+SNMP,Evolve Transition Infrastructure LP Common Stock,$1.12,0.0411,3.809%,61235149.00,United States,,252400,Energy,Oil & Gas Production
+SSY,SunLink Health Systems Inc. Common Stock,$1.8301,0.0801,4.577%,12626447.00,United States,,162514,Health Care,Hospital/Nursing Management
+STXS,Stereotaxis Inc. Common Stock,$7.34,0.10,1.381%,540885980.00,United States,,277218,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+SVM,Silvercorp Metals Inc. Common Shares,$5.30,0.02,0.379%,929398524.00,,,987238,Basic Industries,Precious Metals
+SVT,Servotronics Inc. Common Stock,$8.70,-0.09,-1.024%,21649315.00,United States,,379,Capital Goods,Industrial Machinery/Components
+SYN,Synthetic Biologics Inc. Common Stock,$0.9187,0.2105,29.723%,119113658.00,United States,,117097820,Health Care,Major Pharmaceuticals
+TGB,Taseko Mines Ltd. Common Stock,$1.83,-0.01,-0.543%,517946774.00,Canada,,6000075,Basic Industries,Precious Metals
+THM,International Tower Hill Mines Ltd. Ordinary Shares (Canada),$1.23,-0.02,-1.60%,239737066.00,Canada,,198360,Basic Industries,Precious Metals
+TKAT,Takung Art Co. Ltd. Common Stock,$4.09,0.16,4.071%,46099940.00,,,800794,Consumer Services,Other Specialty Stores
+TMBR,Timber Pharmaceuticals Inc. Common Stock,$2.48,-1.07,-30.141%,29385597.00,United States,2015,39646645,Health Care,Major Pharmaceuticals
+TMP,Tompkins Financial Corporation Common Stock,$92.36,1.50,1.651%,1383536637.00,United States,,33731,Finance,Major Banks
+TMQ,Trilogy Metals Inc. Common Stock,$2.21,-0.03,-1.339%,318650461.00,Canada,,235521,Basic Industries,Precious Metals
+TPHS,Trinity Place Holdings Inc. Common Stock,$2.33,0.16,7.373%,74961009.00,,,41416,Consumer Services,Building operators
+TRT,Trio-Tech International Common Stock,$5.16,0.20,4.032%,19146464.00,United States,,17094,Technology,Industrial Machinery/Components
+TRX,Tanzanian Gold Corporation Common Stock,$0.6813,0.0187,2.822%,170736665.00,Canada,,3362281,Basic Industries,Precious Metals
+UAMY,United States Antimony Corporation Common Stock,$1.34,0.00,0.00%,137752134.00,United States,,3683011,Capital Goods,Metal Fabrications
+UAVS,AgEagle Aerial Systems Inc. Common Stock,$8.66,0.19,2.243%,509221622.00,United States,,2482529,Capital Goods,Aerospace
+UEC,Uranium Energy Corp. Common Stock,$2.69,0.28,11.618%,535468460.00,Canada,,7851735,Basic Industries,Precious Metals
+UFAB,Unique Fabricating Inc. Common Stock,$6.604,-0.046,-0.692%,64581487.00,United States,2015,3836,Capital Goods,Auto Parts:O.E.M.
+URG,Ur Energy Inc Common Shares (Canada),$1.17,0.03,2.632%,220979421.00,Canada,,1733594,Basic Industries,Precious Metals
+USAS,Americas Gold and Silver Corporation Common Shares no par value,$2.61,0.04,1.556%,334989729.00,,2017,572821,Basic Industries,Precious Metals
+UTG,Reaves Utility Income Fund Common Shares of Beneficial Interest,$32.08,0.10,0.313%,1786757835.00,United States,2004,199185,,
+UUU,Universal Security Instruments Inc. Common Stock,$6.97,-0.15,-2.107%,16120822.00,United States,,144256,Technology,Electronic Components
+UUUU,Energy Fuels Inc Ordinary Shares (Canada),$5.92,0.19,3.316%,820782390.00,,,3554163,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+VCF,Delaware Investments Colorado Municipal Income Fund Inc  Common Stock,$14.4329,-0.0671,-0.463%,69813381.00,United States,1993,3590,,
+VFL,Delaware Investments National Municipal Income Fund Common Stock,$13.00,-0.04,-0.307%,58869759.00,United States,1993,7469,,
+VGZ,Vista Gold Corp Common Stock,$1.02,-0.01,-0.971%,105445258.00,United States,,219347,Basic Industries,Precious Metals
+VHAQ,Viveon Health Acquisition Corp. Common Stock,$9.9275,0.0475,0.481%,249738672.00,,2021,713568,Finance,Business Services
+VKI,Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE),$11.84,-0.10,-0.838%,525595964.00,United States,,267442,,
+VMM,Delaware Investments Minnesota Municipal Income Fund II Inc. Common Stock,$13.18,0.02,0.152%,151635571.00,United States,1993,5571,,
+VNRX,VolitionRX Limited Common Stock,$4.01,0.01,0.25%,211427852.00,Singapore,2015,223290,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+VOLT,Volt Information Sciences Inc. Common Stock,$3.15,0.24,8.247%,68470211.00,United States,,274978,Technology,Professional Services
+WLMS,Williams Industrial Services Group Inc. Common Stock,$3.865,0.03,0.782%,97925348.00,,2021,162655,Basic Industries,Military/Government/Technical
+WRN,Western Copper and Gold Corporation Common Stock,$1.41,-0.07,-4.73%,191192665.00,Canada,2011,446960,Basic Industries,Precious Metals
+WTT,Wireless Telecom Group  Inc. Common Stock,$1.89,0.17,9.884%,41003569.00,United States,,175166,Capital Goods,Telecommunications Equipment
+WYY,WidePoint Corporation Common Stock,$11.40,-0.23,-1.978%,96429568.00,United States,,62969,Technology,EDP Services
+XPL,Solitario Zinc Corp. Common Stock,$0.99,0.001,0.101%,57795325.00,United States,,1684400,Basic Industries,Precious Metals
+XTNT,Xtant Medical Holdings Inc. Common Stock,$2.84,-0.06,-2.069%,246248692.00,United States,,190279,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+XXII,22nd Century Group Inc. Common Stock,$3.05,0.35,12.963%,423520539.00,United States,,8367117,Consumer Non-Durables,Farming/Seeds/Milling
+YCBD,cbdMD Inc. Common Stock,$4.49,0.09,2.045%,234769137.00,United States,2017,734735,Consumer Non-Durables,Package Goods/Cosmetics
+YCBD^A,cbdMD Inc. 8.0% Series A Cumulative Convertible Preferred Stock,$8.968,0.008,0.089%,,United States,,1435,,
+ZDGE,Zedge Inc. Class B Common Stock ,$10.27,0.27,2.70%,128619292.00,,2016,155965,Technology,Computer Software: Prepackaged Software
+ZOM,Zomedica Corp. Common Shares,$2.29,0.19,9.048%,2225919635.00,United States,2017,101183390,Health Care,Major Pharmaceuticals
