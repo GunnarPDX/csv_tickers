@@ -1,0 +1,1001 @@
+rank,name,ticker,mkt_cap
+1,Bitcoin,BTC,$726.80B
+2,Ethereum,ETH,$288.73B
+3,Tether,USDT,$62.62B
+4,Binance Coin,BNB,$55.69B
+5,Cardano,ADA,$49.30B
+6,Dogecoin,DOGE,$42.08B
+7,XRP,XRP,$40.36B
+8,USD Coin,USDC,$23.65B
+9,Polkadot,DOT,$20.89B
+10,Uniswap,UNI,$13.07B
+11,Bitcoin Cash,BCH,$11.36B
+12,Litecoin,LTC,$11.28B
+13,Solana,SOL,$10.69B
+14,Chainlink,LINK,$9.95B
+15,Binance USD,BUSD,$9.58B
+16,Polygon,MATIC,$9.08B
+17,THETA,THETA,$8.79B
+18,Internet Computer,ICP,$8.24B
+19,Stellar,XLM,$7.92B
+20,Wrapped Bitcoin,WBTC,$7.33B
+21,VeChain,VET,$7.25B
+22,Ethereum Classic,ETC,$6.79B
+23,Filecoin,FIL,$5.73B
+24,Dai,DAI,$5.23B
+25,TRON,TRX,$5.09B
+26,EOS,EOS,$4.80B
+27,Monero,XMR,$4.63B
+28,Aave,AAVE,$3.91B
+29,Kusama,KSM,$3.71B
+30,Neo,NEO,$3.42B
+31,Algorand,ALGO,$3.25B
+32,Bitcoin SV,BSV,$3.16B
+33,Maker,MKR,$3.09B
+34,FTX Token,FTT,$3.08B
+35,Crypto.com Coin,CRO,$3.05B
+36,PancakeSwap,CAKE,$3.05B
+37,IOTA,MIOTA,$3.01B
+38,Theta Fuel,TFUEL,$2.91B
+39,Bitcoin BEP2,BTCB,$2.84B
+40,Tezos,XTZ,$2.78B
+41,SHIBA INU,SHIB,$2.71B
+42,UNUS SED LEO,LEO,$2.63B
+43,Cosmos,ATOM,$2.60B
+44,Avalanche,AVAX,$2.55B
+45,Terra,LUNA,$2.54B
+46,Klaytn,KLAY,$2.50B
+47,Huobi Token,HT,$2.40B
+48,BitTorrent,BTT,$2.34B
+49,TerraUSD,UST,$1.90B
+50,Decred,DCR,$1.80B
+51,THORChain,RUNE,$1.75B
+52,Dash,DASH,$1.74B
+53,Compound,COMP,$1.69B
+54,Hedera Hashgraph,HBAR,$1.68B
+55,Celsius,CEL,$1.67B
+56,Telcoin,TEL,$1.65B
+57,Chiliz,CHZ,$1.63B
+58,Waves,WAVES,$1.58B
+59,Zcash,ZEC,$1.57B
+60,Elrond,EGLD,$1.51B
+61,NEM,XEM,$1.48B
+62,TrueUSD,TUSD,$1.44B
+63,yearn.finance,YFI,$1.39B
+64,Holo,HOT,$1.37B
+65,NEAR Protocol,NEAR,$1.24B
+66,Zilliqa,ZIL,$1.19B
+67,Helium,HNT,$1.13B
+68,Nexo,NEXO,$1.10B
+69,Decentraland,MANA,$1.09B
+70,SushiSwap,SUSHI,$1.09B
+71,Enjin Coin,ENJ,$1.08B
+72,Synthetix,SNX,$1.04B
+73,Bitcoin Gold,BTG,$1.03B
+74,Stacks,STX,$1.02B
+75,Paxos Standard,PAX,$982.15M
+76,Basic Attention Token,BAT,$966.36M
+77,Revain,REV,$964.74M
+78,Horizen,ZEN,$934.70M
+79,Qtum,QTUM,$890.17M
+80,Nano,NANO,$869.54M
+81,Harmony,ONE,$838.12M
+82,OKB,OKB,$831.16M
+83,BakeryToken,BAKE,$828.41M
+84,DigiByte,DGB,$821.12M
+85,Bancor,BNT,$817.67M
+86,The Graph,GRT,$813.74M
+87,Ontology,ONT,$805.33M
+88,Curve DAO Token,CRV,$794.71M
+89,Siacoin,SC,$751.27M
+90,0x,ZRX,$736.69M
+91,HUSD,HUSD,$732.87M
+92,UMA,UMA,$717.95M
+93,OMG Network,OMG,$687.33M
+94,KuCoin Token,KCS,$684.60M
+95,Quant,QNT,$682.99M
+96,Fantom,FTM,$682.08M
+97,Ravencoin,RVN,$681.29M
+98,SwissBorg,CHSB,$673.85M
+99,Celo,CELO,$626.09M
+100,NXM,NXM,$610.60M
+101,Ankr,ANKR,$598.04M
+102,ICON,ICX,$584.11M
+103,Bitcoin Diamond,BCD,$581.76M
+104,Livepeer,LPT,$567.52M
+105,Voyager Token,VGX,$560.69M
+106,Arweave,AR,$556.92M
+107,Flow,FLOW,$535.89M
+108,Kyber Network,KNC,$535.57M
+109,1inch,1INCH,$517.84M
+110,Bitpanda Ecosystem Token,BEST,$501.46M
+111,Nervos Network,CKB,$496.25M
+112,WazirX,WRX,$488.24M
+113,Verge,XVG,$487.93M
+114,IOST,IOST,$462.53M
+115,Mina,MINA,$438.71M
+116,Ren,REN,$429.58M
+117,Reserve Rights,RSR,$396.24M
+118,renBTC,RENBTC,$379.47M
+119,Neutrino USD,USDN,$374.77M
+120,Loopring,LRC,$370.91M
+121,Lisk,LSK,$366.25M
+122,Kyber Network Crystal Legacy,KNC,$358.58M
+123,Wootrade,WOO,$351.50M
+124,Wink,WIN,$347.10M
+125,ECOMI,OMI,$341.10M
+126,Pundi X[new],PUNDIX,$340.47M
+127,MaidSafeCoin,MAID,$334.71M
+128,Dent,DENT,$331.40M
+129,GateToken,GT,$326.65M
+130,Hellenic Coin,HNC,$324.35M
+131,ASD (BTMX),BTMX,$309.81M
+132,Ergo,ERG,$302.76M
+133,SKALE Network,SKL,$291.77M
+134,VeThor Token,VTHO,$290.58M
+135,Golem,GLM,$283.82M
+136,Mirror Protocol,MIR,$279.63M
+137,Gnosis,GNO,$279.43M
+138,iExec RLC,RLC,$276.70M
+139,Storj,STORJ,$273.77M
+140,Reef,REEF,$273.53M
+141,Kava.io,KAVA,$266.89M
+142,Ocean Protocol,OCEAN,$261.25M
+143,Venus,XVS,$254.53M
+144,Status,SNT,$249.53M
+145,WAX,WAXP,$247.20M
+146,Origin Protocol,OGN,$245.00M
+147,Axie Infinity,AXS,$242.85M
+148,Band Protocol,BAND,$242.06M
+149,Energy Web Token,EWT,$241.15M
+150,Bitcoin Standard Hashrate Token,BTCST,$240.62M
+151,Keep Network,KEEP,$235.62M
+152,Ontology Gas,ONG,$234.47M
+153,ABBC Coin,ABBC,$233.73M
+154,MCO,MCO,$232.01M
+155,Prometeus,PROM,$230.91M
+156,Uquid Coin,UQC,$225.12M
+157,TitanSwap,TITAN,$224.55M
+158,Toko Token,TKO,$221.47M
+159,IoTeX,IOTX,$219.58M
+160,Injective Protocol,INJ,$219.16M
+161,FUNToken,FUN,$218.49M
+162,Orchid,OXT,$217.36M
+163,Cartesi,CTSI,$216.24M
+164,Raydium,RAY,$212.00M
+165,Fetch.ai,FET,$210.30M
+166,NKN,NKN,$209.76M
+167,Augur,REP,$207.80M
+168,sUSD,SUSD,$207.23M
+169,Klever,KLV,$205.26M
+170,NuCypher,NU,$203.90M
+171,Anchor Protocol,ANC,$203.43M
+172,Persistence,XPRT,$199.05M
+173,Celer Network,CELR,$198.10M
+174,yOUcash,YOUC,$197.08M
+175,Serum,SRM,$196.71M
+176,Akash Network,AKT,$196.23M
+177,Numeraire,NMR,$196.18M
+178,Mixin,XIN,$191.89M
+179,The Sandbox,SAND,$191.23M
+180,SUN,SUN,$189.54M
+181,Gemini Dollar,GUSD,$189.40M
+182,Tribe,TRIBE,$187.30M
+183,Orion Protocol,ORN,$186.96M
+184,Perpetual Protocol,PERP,$183.41M
+185,StormX,STMX,$181.80M
+186,Civic,CVC,$179.84M
+187,SingularityNET,AGI,$178.62M
+188,Swipe,SXP,$178.58M
+189,Alchemix,ALCX,$178.25M
+190,Stratis,STRAX,$177.32M
+191,Hifi Finance,MFT,$176.38M
+192,Dawn Protocol,DAWN,$175.16M
+193,Aragon,ANT,$175.09M
+194,PAC Global,PAC,$175.08M
+195,ZB Token,ZB,$173.69M
+196,Alpha Finance Lab,ALPHA,$172.56M
+197,Enzyme,MLN,$170.38M
+198,Steem,STEEM,$170.23M
+199,Ardor,ARDR,$168.49M
+200,Phala Network,PHA,$164.26M
+201,Balancer,BAL,$163.66M
+202,Venus BTC,vBTC,$160.75M
+203,Streamr,DATA,$160.63M
+204,Unibright,UBT,$160.21M
+205,MATH,MATH,$159.21M
+206,Hxro,HXRO,$154.98M
+207,Gitcoin,GTC,$153.82M
+208,Ampleforth,AMPL,$153.81M
+209,Velas,VLX,$153.12M
+210,Orbs,ORBS,$152.11M
+211,Haven Protocol,XHV,$149.28M
+212,Hive,HIVE,$148.53M
+213,Casper,CSPR,$146.93M
+214,BitShares,BTS,$146.87M
+215,DODO,DODO,$144.16M
+216,Metal,MTL,$144.10M
+217,Travala.com,AVA,$142.38M
+218,COTI,COTI,$142.22M
+219,KLAYswap Protocol,KSP,$141.90M
+220,UTRUST,UTK,$141.56M
+221,Ark,ARK,$141.29M
+222,Komodo,KMD,$139.38M
+223,JUST,JST,$137.94M
+224,CRYPTO20,C20,$136.66M
+225,Electroneum,ETN,$136.15M
+226,Function X,FX,$136.14M
+227,Automata Network,ATA,$135.38M
+228,RSK Infrastructure Framework,RIF,$135.17M
+229,Polymath,POLY,$134.61M
+230,LockTrip,LOC,$134.49M
+231,ZKSwap,ZKS,$134.14M
+232,Alien Worlds,TLM,$133.70M
+233,GNY,GNY,$131.77M
+234,Strike,STRK,$131.22M
+235,Everipedia,IQ,$130.20M
+236,Sapphire,SAPP,$127.07M
+237,Wanchain,WAN,$126.29M
+238,MonaCoin,MONA,$125.62M
+239,MediBloc,MED,$125.17M
+240,Badger DAO,BADGER,$125.15M
+241,TomoChain,TOMO,$124.89M
+242,Audius,AUDIO,$122.80M
+243,Newscrypto,NWC,$122.18M
+244,MVL,MVL,$119.36M
+245,Linear,LINA,$118.48M
+246,RChain,REV,$118.34M
+247,Ampleforth Governance Token,FORTH,$117.81M
+248,Frax,FRAX,$117.19M
+249,Divi,DIVI,$116.76M
+250,XeniosCoin,XNC,$116.43M
+251,Rocket Pool,RPL,$115.51M
+252,OriginTrail,TRAC,$115.48M
+253,CoinMetro Token,XCM,$114.28M
+254,aelf,ELF,$114.12M
+255,PAX Gold,PAXG,$113.49M
+256,Venus XVS,vXVS,$112.04M
+257,Bytom,BTM,$111.89M
+258,CUMROCKET CRYPTO,CUMMIES,$111.43M
+259,SafePal,SFP,$109.96M
+260,Ultra,UOS,$109.38M
+261,Sora,XOR,$108.28M
+262,Radix,EXRD,$107.77M
+263,MXC,MXC,$107.01M
+264,Elitium,EUM,$104.88M
+265,QuarkChain,QKC,$104.72M
+266,Oasis Network,ROSE,$104.16M
+267,Cream Finance,CREAM,$103.58M
+268,Bloomzed Loyalty Club Ticket,BLCT,$103.46M
+269,TROY,TROY,$102.21M
+270,PAC Protocol,PAC,$102.19M
+271,Venus ETH,vETH,$101.88M
+272,Oxygen,OXY,$101.80M
+273,KardiaChain,KAI,$100.08M
+274,Syscoin,SYS,$99.32M
+275,Mobilian Coin,MBN,$98.26M
+276,Venus USDC,vUSDC,$98.24M
+277,CUMROCKET,CUMMIES,$97.71M
+278,STASIS EURO,EURS,$97.13M
+279,MyNeighborAlice,ALICE,$96.96M
+280,Metadium,META,$96.17M
+281,Secret,SCRT,$95.75M
+282,Polkastarter,POLS,$95.37M
+283,TrustSwap,SWAP,$95.03M
+284,KuCoin Shares,KCS,$93.80M
+285,RedFOX Labs,RFOX,$93.54M
+286,Centrality,CENNZ,$93.35M
+287,Vai,VAI,$93.22M
+288,Tokenlon Network Token,LON,$92.79M
+289,DAO Maker,DAO,$92.44M
+290,BarnBridge,BOND,$92.10M
+291,Populous,PPT,$92.04M
+292,dKargo,DKA,$91.77M
+293,Trust Wallet Token,TWT,$91.49M
+294,Handshake,HNS,$89.68M
+295,Sport and Leisure,SNL,$89.40M
+296,Aion,AION,$89.33M
+297,Power Ledger,POWR,$88.57M
+298,district0x,DNT,$87.91M
+299,Ethernity Chain,ERN,$87.70M
+300,ReddCoin,RDD,$87.56M
+301,Bytecoin,BCN,$87.45M
+302,NewYork Exchange,NYE,$86.95M
+303,Hathor,HTR,$86.45M
+304,Kin,KIN,$85.55M
+305,Energi,NRG,$84.37M
+306,Firo,FIRO,$84.29M
+307,GreenPower,GRN,$83.87M
+308,Chromia,CHR,$83.72M
+309,AdEx,ADX,$83.68M
+310,BORA,BORA,$83.41M
+311,PARSIQ,PRQ,$83.38M
+312,IRISnet,IRIS,$83.29M
+313,Tellor,TRB,$82.57M
+314,Kleros,PNK,$82.00M
+315,inSure DeFi,SURE,$81.90M
+316,Chimpion,BNANA,$81.19M
+317,QuickSwap,QUICK,$80.13M
+318,XYO,XYO,$80.06M
+319,Syntropy,NOIA,$79.87M
+320,Gas,GAS,$79.80M
+321,Ellipsis,EPS,$79.72M
+322,LUKSO,LYXe,$79.63M
+323,Flamingo,FLM,$78.96M
+324,Super Zero Protocol,SERO,$78.83M
+325,Apollo Currency,APL,$78.76M
+326,Darma Cash,DMCH,$77.97M
+327,RSK Smart Bitcoin,RBTC,$77.26M
+328,SONM,SNM,$77.21M
+329,Lotto,LOTTO,$77.18M
+330,RAMP,RAMP,$76.61M
+331,Spendcoin,SPND,$76.24M
+332,Litentry,LIT,$76.02M
+333,Venus Reward Token,VRT,$75.89M
+334,Atari Token,ATRI,$75.00M
+335,LTO Network,LTO,$74.95M
+336,Crust Network,CRU,$74.71M
+337,MiL.k,MLK,$74.38M
+338,Crust Network,CRU,$74.32M
+339,Crust,CRU,$74.00M
+340,MimbleWimbleCoin,MWC,$73.55M
+341,Gala,GALA,$73.20M
+342,Hoge Finance,HOGE,$72.66M
+343,Elastos,ELA,$72.64M
+344,Marlin,POND,$72.40M
+345,Render Token,RNDR,$71.92M
+346,ankrETH,aEth,$71.82M
+347,Qcash,QC,$71.67M
+348,Dvision Network,DVI,$71.52M
+349,CargoX,CXO,$71.25M
+350,MX Token,MX,$71.00M
+351,DxChain Token,DX,$70.73M
+352,ASTA,ASTA,$70.61M
+353,DFI.Money,YFII,$70.22M
+354,Request,REQ,$70.14M
+355,Belt Finance,BELT,$69.55M
+356,PEAKDEFI,PEAK,$68.89M
+357,VerusCoin,VRSC,$68.80M
+358,bZx Protocol,BZRX,$68.47M
+359,EFFORCE,WOZX,$68.18M
+360,Burger Swap,BURGER,$67.94M
+361,Veritaseum,VERI,$67.62M
+362,Student Coin,STC,$67.44M
+363,Beldex,BDX,$67.41M
+364,ChainX,PCX,$66.60M
+365,Loom Network,LOOM,$65.40M
+366,Molecular Future,MOF,$63.73M
+367,KARMA,KARMA,$63.55M
+368,DIA,DIA,$63.43M
+369,SuperFarm,SUPER,$63.22M
+370,AXEL,AXEL,$63.01M
+371,Akropolis,AKRO,$62.30M
+372,Kadena,KDA,$62.07M
+373,Verasity,VRA,$62.01M
+374,cVault.finance,CORE,$61.24M
+375,WaykiChain,WICC,$60.85M
+376,Beam,BEAM,$60.34M
+377,WHALE,WHALE,$60.32M
+378,Dock,DOCK,$60.27M
+379,BOSAGORA,BOA,$59.91M
+380,Oxen,OXEN,$59.63M
+381,Melon,MLN,$59.58M
+382,Neutrino Token,NSBT,$59.42M
+383,FIO Protocol,FIO,$58.67M
+384,xDai,STAKE,$58.62M
+385,Hegic,HEGIC,$58.58M
+386,Mask Network,MASK,$58.17M
+387,Dego Finance,DEGO,$58.12M
+388,Carry,CRE,$57.11M
+389,Small Love Potion,SLP,$57.05M
+390,Selfkey,KEY,$56.45M
+391,Gifto,GTO,$56.17M
+392,Lido DAO Token,LDO,$56.06M
+393,Mithril,MITH,$56.05M
+394,Waltonchain,WTC,$55.83M
+395,Venus BUSD,vBUSD,$55.74M
+396,Groestlcoin,GRS,$55.00M
+397,Bella Protocol,BEL,$54.79M
+398,Edgeware,EDG,$54.62M
+399,AllianceBlock,ALBT,$54.37M
+400,DAD,DAD,$54.18M
+401,DerivaDAO,DDX,$53.96M
+402,Telos,TLOS,$53.94M
+403,CertiK,CTK,$53.86M
+404,ShareToken,SHR,$53.61M
+405,Zenon,ZNN,$53.56M
+406,Dragonchain,DRGN,$53.00M
+407,HARD Protocol,HARD,$52.94M
+408,Bluzelle,BLZ,$52.73M
+409,BLOCKv,VEE,$52.44M
+410,Tierion,TNT,$52.43M
+411,Constellation,DAG,$52.21M
+412,Aeternity,AE,$52.19M
+413,Standard Tokenization Protocol,STPT,$51.68M
+414,Nimiq,NIM,$51.57M
+415,Thunder Token,TT,$51.11M
+416,Cortex,CTXC,$51.04M
+417,Celo Dollar,CUSD,$50.63M
+418,Rari Governance Token,RGT,$50.48M
+419,PIVX,PIVX,$50.08M
+420,BTU Protocol,BTU,$50.00M
+421,Contentos,COS,$49.40M
+422,Steem Dollars,SBD,$49.33M
+423,ARPA Chain,ARPA,$49.26M
+424,VideoCoin,VID,$49.03M
+425,FC Barcelona Fan Token,BAR,$48.99M
+426,NULS,NULS,$48.79M
+427,v.systems,VSYS,$48.69M
+428,Nexus,NXS,$48.54M
+429,USDX [Kava],USDX,$48.15M
+430,Liquity,LQTY,$47.82M
+431,Ultiledger,ULT,$47.79M
+432,MANTRA DAO,OM,$47.33M
+433,APENFT,NFT,$46.93M
+434,Tornado Cash,TORN,$46.91M
+435,Dogelon Mars,ELON,$46.88M
+436,GXChain,GXC,$46.51M
+437,StableXSwap,STAX,$45.96M
+438,PRIZM,PZM,$45.95M
+439,GET Protocol,GET,$45.56M
+440,Everest,ID,$45.43M
+441,API3,API3,$44.69M
+442,LATOKEN,LA,$44.06M
+443,Flexacoin,FXC,$44.02M
+444,Polkadex,PDEX,$43.94M
+445,Fusion,FSN,$43.63M
+446,Sentivate,SNTVT,$43.62M
+447,DigixDAO,DGD,$43.59M
+448,DSLA Protocol,DSLA,$43.56M
+449,Dusk Network,DUSK,$43.06M
+450,Bounce Token,AUCTION,$42.65M
+451,Juggernaut,JGN,$42.63M
+452,PAID Network,PAID,$42.39M
+453,Anyswap,ANY,$42.15M
+454,SUKU,SUKU,$41.77M
+455,PLATINCOIN,PLC,$41.71M
+456,MovieBloc,MBL,$41.69M
+457,Humanscape,HUM,$41.60M
+458,Revolution Populi,RVP,$41.55M
+459,mStable USD,MUSD,$41.51M
+460,Vesper,VSP,$40.98M
+461,Dero,DERO,$40.70M
+462,All Sports,SOC,$40.64M
+463,TrueFi,TRU,$40.57M
+464,Metronome,MET,$40.57M
+465,BnkToTheFuture,BFT,$40.39M
+466,Shopping,SPI,$40.16M
+467,KickToken,KICK,$40.02M
+468,Maro,MARO,$39.83M
+469,VITE,VITE,$39.50M
+470,Attila,ATT,$39.27M
+471,Bifrost (BFC),BFC,$39.18M
+472,Bridge Mutual,BMI,$38.90M
+473,BoringDAO,BOR,$38.86M
+474,LGCY Network,LGCY,$38.86M
+475,saffron.finance,SFI,$38.81M
+476,Aavegotchi,GHST,$38.55M
+477,Project Pai,PAI,$38.24M
+478,BSCPAD,BSCPAD,$38.09M
+479,Hacken Token,HAI,$38.09M
+480,RAI Finance,RAI,$37.81M
+481,Huobi Pool Token,HPT,$37.76M
+482,HyperCash,HC,$37.72M
+483,Vertcoin,VTC,$37.07M
+484,Morpheus.Network,MRPH,$36.98M
+485,Wing,WING,$36.95M
+486,Refereum,RFR,$36.51M
+487,Callisto Network,CLO,$36.36M
+488,Ignis,IGNIS,$36.35M
+489,Aergo,AERGO,$36.30M
+490,SparkPoint,SRK,$36.22M
+491,DeepBrain Chain,DBC,$35.81M
+492,Terra Virtua Kolect,TVK,$35.70M
+493,Nerve Finance,NRV,$35.52M
+494,Smartlands Network,SLT,$35.39M
+495,pNetwork,PNT,$35.38M
+496,Manchester City Fan Token,CITY,$35.36M
+497,Propy,PRO,$35.12M
+498,Lambda,LAMB,$34.96M
+499,PowerPool,CVP,$34.85M
+500,Switcheo,SWTH,$34.82M
+501,Frontier,FRONT,$34.66M
+502,Unifi Protocol DAO,UNFI,$34.54M
+503,Flux,FLUX,$34.51M
+504,Visor.Finance,VISR,$34.16M
+505,Mirrored iShares Silver Trust,mSLV,$34.00M
+506,Peercoin,PPC,$33.67M
+507,Mirrored Invesco QQQ Trust,mQQQ,$33.53M
+508,Illuvium,ILV,$33.41M
+509,Bounce Token (OLD),BOT,$33.38M
+510,Glitch,GLCH,$32.99M
+511,BitMart Token,BMX,$32.87M
+512,Mirrored Apple,mAAPL,$32.75M
+513,Harvest Finance,FARM,$32.68M
+514,#MetaHash,MHC,$32.28M
+515,Mirrored Amazon,mAMZN,$32.18M
+516,EOS Force,EOSC,$32.07M
+517,Deeper Network,DPR,$31.96M
+518,Neblio,NEBL,$31.96M
+519,Phoenix Global,PHB,$31.88M
+520,Mirrored Tesla,mTSLA,$31.85M
+521,Cindicator,CND,$31.79M
+522,Rarible,RARI,$31.74M
+523,Convergence,CONV,$31.48M
+524,Bankera,BNK,$31.31M
+525,Proton,XPR,$31.28M
+526,MAPS,MAPS,$31.20M
+527,Perlin,PERL,$31.14M
+528,Mirrored Alibaba,mBABA,$31.13M
+529,Kylin,KYL,$31.05M
+530,AIOZ Network,AIOZ,$31.04M
+531,Radicle,RAD,$30.87M
+532,Alpha Quark Token,AQT,$30.86M
+533,Freeway Token,FWT,$30.82M
+534,Venus USDT,vUSDT,$30.81M
+535,Decentral Games,DG,$30.75M
+536,FREE Coin,FREE,$30.67M
+537,Quantstamp,QSP,$30.59M
+538,YIELD App,YLD,$30.53M
+539,Burst,BURST,$30.52M
+540,BABB,BAX,$30.49M
+541,ARMOR,ARMOR,$30.42M
+542,Ripio Credit Network,RCN,$30.29M
+543,Mirrored Netflix,mNFLX,$30.26M
+544,WPP TOKEN,WPP,$29.86M
+545,Frax Share,FXS,$29.84M
+546,Mirrored Twitter,mTWTR,$29.82M
+547,Loki,LOKI,$29.72M
+548,Mirrored Microsoft,mMSFT,$29.71M
+549,DigitalBits,XDB,$29.62M
+550,Mirrored United States Oil Fund,mUSO,$29.52M
+551,Keep3rV1,KP3R,$29.48M
+552,Permission Coin,ASK,$29.46M
+553,IDEX,IDEX,$29.33M
+554,Sentinel Protocol,UPP,$29.15M
+555,UBIX.Network,UBX,$29.15M
+556,AMO Coin,AMO,$29.05M
+557,Endor Protocol,EDR,$29.03M
+558,GoChain,GO,$28.97M
+559,0Chain,ZCN,$28.94M
+560,Nxt,NXT,$28.93M
+561,USDK,USDK,$28.68M
+562,Finxflo,FXF,$28.48M
+563,Unicly CryptoPunks Collection,UPUNK,$28.46M
+564,Grin,GRIN,$28.46M
+565,SOLVE,SOLVE,$28.42M
+566,Invictus Hyperion Fund,IHF,$28.37M
+567,NavCoin,NAV,$28.36M
+568,BitKan,KAN,$28.06M
+569,Pangolin,PNG,$27.80M
+570,VIDY,VIDY,$27.66M
+571,Stakenet,XSN,$27.43M
+572,Morpheus Labs,MITX,$27.39M
+573,Minter Network,BIP,$27.33M
+574,Moss Coin,MOC,$27.20M
+575,ZeroSwap,ZEE,$27.16M
+576,TokenClub,TCT,$27.07M
+577,DEXTools,DEXT,$26.89M
+578,DEAPcoin,DEP,$26.78M
+579,Nash,NEX,$26.72M
+580,LBRY Credits,LBC,$26.63M
+581,Doge Token,DOGET,$26.47M
+582,Skycoin,SKY,$26.42M
+583,Namecoin,NMC,$26.37M
+584,PIBBLE,PIB,$26.32M
+585,CyberVein,CVT,$26.30M
+586,UniLend,UFT,$26.29M
+587,Wirex Token,WXT,$26.24M
+588,QASH,QASH,$26.16M
+589,Vulcan Forged PYR,PYR,$26.13M
+590,NFTX,NFTX,$26.13M
+591,suterusu,SUTER,$26.04M
+592,Arianee,ARIA20,$25.97M
+593,Ferrum Network,FRM,$25.94M
+594,Empty Set Dollar,ESD,$25.90M
+595,VNT Chain,VNT,$25.89M
+596,Anchor Neural World,ANW,$25.84M
+597,Zano,ZANO,$25.81M
+598,DeGate,DG,$25.76M
+599,Unifty,NIF,$25.66M
+600,BitForex Token,BF,$25.65M
+601,Rakon,RKN,$25.59M
+602,Cocos-BCX,COCOS,$25.58M
+603,Nebulas,NAS,$25.52M
+604,Router Protocol,ROUTE,$25.17M
+605,Aitra,AITRA,$24.95M
+606,XSGD,XSGD,$24.71M
+607,Olyseum,OLY,$24.48M
+608,BitZ Token,BZ,$24.44M
+609,Swingby,SWINGBY,$24.44M
+610,Multi Channel Influencer Creater Cloud Funding Platform,MCI,$24.41M
+611,Bithao,BHAO,$24.35M
+612,King DAG,KDAG,$24.19M
+613,Banano,BAN,$24.17M
+614,REVV,REVV,$24.14M
+615,HUNT,HUNT,$24.08M
+616,Buggyra Coin Zero,BCZERO,$23.94M
+617,NEST Protocol,NEST,$23.90M
+618,Massnet,MASS,$23.85M
+619,Aleph.im,ALEPH,$23.47M
+620,VIDT Datalink,VIDT,$23.08M
+621,JulSwap,JULD,$22.91M
+622,Obyte,GBYTE,$22.85M
+623,Boson Protocol,BOSON,$22.79M
+624,ForTube,FOR,$22.68M
+625,Drep [new],DREP,$22.68M
+626,Phantasma,SOUL,$22.58M
+627,Etherisc DIP Token,DIP,$22.16M
+628,AirSwap,AST,$22.09M
+629,CUTcoin,CUT,$22.06M
+630,Galatasaray Fan Token,GAL,$22.03M
+631,Wabi,WABI,$21.89M
+632,Refinable,FINE,$21.88M
+633,Aurora,AOA,$21.72M
+634,Measurable Data Token,MDT,$21.57M
+635,Raiden Network Token,RDN,$21.51M
+636,ArdCoin,ARDX,$21.48M
+637,Bitrue Coin,BTR,$21.39M
+638,AhaToken,AHT,$21.26M
+639,Nucleus Vision,NCASH,$21.13M
+640,Chrono.tech,TIME,$20.99M
+641,Darwinia Network,RING,$20.97M
+642,LikeCoin,LIKE,$20.81M
+643,TE-FOOD,TONE,$20.71M
+644,Tokenomy,TEN,$20.69M
+645,Hermez Network,HEZ,$20.54M
+646,GYEN,GYEN,$20.37M
+647,Wownero,WOW,$20.21M
+648,Props Token,PROPS,$20.16M
+649,Niftyx Protocol,SHROOM,$20.06M
+650,Mirrored iShares Gold Trust,mIAU,$19.95M
+651,Sentinel,DVPN,$19.93M
+652,Einsteinium,EMC2,$19.91M
+653,The Midas Touch Gold,TMTG,$19.82M
+654,Corra.Finance,CORA,$19.73M
+655,Modefi,MOD,$19.73M
+656,JustLiquidity,JUL,$19.72M
+657,DragonVein,DVC,$19.68M
+658,GameCredits,GAME,$19.56M
+659,CUDOS,CUDOS,$19.50M
+660,Pickle Finance,PICKLE,$19.49M
+661,Paris Saint-Germain Fan Token,PSG,$19.34M
+662,Non-Fungible Yearn,NFY,$19.26M
+663,Blox,CDT,$19.22M
+664,Quantum Resistant Ledger,QRL,$19.21M
+665,Davinci Coin,DAC,$19.03M
+666,dForce,DF,$18.99M
+667,SALT,SALT,$18.80M
+668,MAP Protocol,MAP,$18.79M
+669,SIX,SIX,$18.76M
+670,Infinitecoin,IFC,$18.66M
+671,Helmet.insure,HELMET,$18.55M
+672,Cardstack,CARD,$18.48M
+673,CyberFi Token,CFi,$18.33M
+674,Electric Vehicle Zone,EVZ,$18.28M
+675,BaaSid,BAAS,$18.14M
+676,Oxbull.tech,OXB,$18.03M
+677,Atomic Wallet Coin,AWC,$17.93M
+678,BTSE,BTSE,$17.89M
+679,Tranche Finance,SLICE,$17.83M
+680,AppCoins,APPC,$17.72M
+681,ALLY,ALY,$17.59M
+682,LCMS,LCMS,$17.41M
+683,Factom,FCT,$17.39M
+684,Robonomics.network,XRT,$17.31M
+685,1irstcoin,FST,$17.22M
+686,UniCrypt,UNCX,$17.16M
+687,Mirrored ProShares VIX,mVIXY,$17.11M
+688,TEMCO,TEMCO,$17.08M
+689,AEON,AEON,$17.06M
+690,Lympo Market Token,LMT,$16.95M
+691,Trias (old),TRY,$16.89M
+692,NerveNetwork,NVT,$16.84M
+693,Zap,ZAP,$16.76M
+694,Dentacoin,DCN,$16.72M
+695,Crypterium,CRPT,$16.44M
+696,Metaverse Dualchain Network Architecture,DNA,$16.35M
+697,Waves Enterprise,WEST,$16.30M
+698,LCX,LCX,$16.28M
+699,Dynamic,DYN,$16.15M
+700,Auto,AUTO,$16.09M
+701,Moeda Loyalty Points,MDA,$16.01M
+702,Tokamak Network,TON,$15.93M
+703,Loser Coin,LOWB,$15.91M
+704,Bondly,BONDLY,$15.81M
+705,BIDR,BIDR,$15.73M
+706,Viacoin,VIA,$15.72M
+707,DeXe,DEXE,$15.70M
+708,ZEON,ZEON,$15.63M
+709,Metrix Coin,MRX,$15.49M
+710,Gulden,NLG,$15.29M
+711,Genesis Vision,GVT,$15.27M
+712,Zynecoin,ZYN,$15.27M
+713,Bao Finance,BAO,$15.20M
+714,SpaceChain,SPC,$15.18M
+715,Ducato Protocol Token,DUCATO,$15.16M
+716,LGO Token,LGO,$15.16M
+717,Exeedme,XED,$15.12M
+718,Venus SXP,vSXP,$14.97M
+719,Emirex Token,EMRX,$14.92M
+720,USDJ,USDJ,$14.87M
+721,Validity,VAL,$14.75M
+722,B2BX,B2B,$14.73M
+723,RioDeFi,RFUEL,$14.72M
+724,Blank Wallet,BLANK,$14.61M
+725,NIX,NIX,$14.57M
+726,Particl,PART,$14.50M
+727,Solanium,SLIM,$14.45M
+728,APY.Finance,APY,$14.45M
+729,TenX,PAY,$14.44M
+730,DuckDaoDime,DDIM,$14.37M
+731,mStable Governance Token: Meta (MTA),MTA,$14.32M
+732,BUX Token,BUX,$14.29M
+733,FLETA,FLETA,$14.27M
+734,Venus LINK,vLINK,$14.27M
+735,Stafi,FIS,$14.26M
+736,Cryptocean,CRON,$14.21M
+737,Envion,EVN,$14.15M
+738,S4FE,S4F,$14.15M
+739,InsurAce,INSUR,$14.11M
+740,Newton,NEW,$14.11M
+741,Venus LTC,vLTC,$14.04M
+742,BASIC,BASIC,$13.91M
+743,AC Milan Fan Token,ACM,$13.80M
+744,dHedge DAO,DHT,$13.77M
+745,COVER Protocol,COVER,$13.76M
+746,Lympo,LYM,$13.74M
+747,BHPCoin,BHP,$13.68M
+748,Dynamic Trading Rights,DTR,$13.63M
+749,ELYSIA,EL,$13.55M
+750,UnMarshal,MARSH,$13.52M
+751,Dovu,DOV,$13.49M
+752,Bread,BRD,$13.46M
+753,UpBots,UBXT,$13.37M
+754,PlatonCoin,PLTC,$13.36M
+755,TerraCredit,CREDIT,$13.32M
+756,Metaverse ETP,ETP,$13.31M
+757,Benchmark Protocol,MARK,$13.26M
+758,Spiking,SPIKE,$13.22M
+759,ROOBEE,ROOBEE,$13.20M
+760,DMarket,DMT,$13.18M
+761,Enecuum,ENQ,$13.17M
+762,FirmaChain,FCT,$13.09M
+763,STEM CELL COIN,SCC,$13.05M
+764,Quiztok,QTCON,$13.04M
+765,TrueChain,TRUE,$13.00M
+766,Eauric,EAURIC,$13.00M
+767,DXdao,DXD,$12.99M
+768,88mph,MPH,$12.91M
+769,Caspian,CSP,$12.88M
+770,MixMarvel,MIX,$12.86M
+771,LiquidApps,DAPP,$12.81M
+772,OST,OST,$12.81M
+773,Unisocks,SOCKS,$12.74M
+774,MultiVAC,MTV,$12.70M
+775,Oraichain Token,ORAI,$12.51M
+776,Arcblock,ABT,$12.49M
+777,Konomi Network,KONO,$12.43M
+778,QuickX Protocol,QCX,$12.42M
+779,TENA,TENA,$12.40M
+780,Rubic,RBC,$12.35M
+781,PowerTrade Fuel,PTF,$12.30M
+782,Blocknet,BLOCK,$12.29M
+783,Elamachain,ELAMA,$12.27M
+784,Juventus Fan Token,JUV,$12.24M
+785,Archer DAO Governance Token,ARCH,$12.15M
+786,ProBit Token,PROB,$12.13M
+787,WePower,WPR,$12.06M
+788,BitcoinHD,BHD,$12.05M
+789,FOAM,FOAM,$11.97M
+790,Dora Factory,DORA,$11.95M
+791,SmartCash,SMART,$11.94M
+792,IQeon,IQN,$11.94M
+793,EasyFi,EASY,$11.92M
+794,Pendle,PENDLE,$11.88M
+795,Lattice Token,LTX,$11.87M
+796,Innovation Blockchain Payment,IBP,$11.74M
+797,Beowulf,BWF,$11.73M
+798,TurtleCoin,TRTL,$11.70M
+799,Presearch,PRE,$11.66M
+800,Howdoo,UDOO,$11.64M
+801,Curate,XCUR,$11.63M
+802,Time New Bank,TNB,$11.61M
+803,Everex,EVX,$11.61M
+804,OAX,OAX,$11.58M
+805,TENA [old],TENA,$11.56M
+806,GoCrypto Token,GOC,$11.55M
+807,Peculium,PCL,$11.55M
+808,GAMB,GMB,$11.54M
+809,Graphlinq Protocol,GLQ,$11.51M
+810,CyberMiles,CMT,$11.50M
+811,Restart Energy MWAT,MWAT,$11.50M
+812,Ubiq,UBQ,$11.50M
+813,Idle,IDLE,$11.43M
+814,DigitalNote,XDN,$11.42M
+815,HAPI,HAPI,$11.37M
+816,Crowns,CWS,$11.37M
+817,Stealthcoin,XST,$11.36M
+818,TrustVerse,TRV,$11.35M
+819,X-CASH,XCASH,$11.34M
+820,Aidos Kuneen,ADK,$11.24M
+821,TrueFeedBack,TFBX,$11.20M
+822,Credits,CS,$11.11M
+823,TOP,TOP,$11.10M
+824,τBitcoin,ΤBTC,$11.02M
+825,Meme,MEME,$11.02M
+826,DIGG,DIGG,$11.01M
+827,Safe Haven,SHA,$11.01M
+828,CONUN,CON,$11.01M
+829,Valobit,VBIT,$10.97M
+830,Swerve,SWRV,$10.93M
+831,SENSO,SENSO,$10.92M
+832,Hedget,HGET,$10.89M
+833,PCHAIN,PI,$10.87M
+834,Idavoll Network,IDV,$10.87M
+835,High Performance Blockchain,HPB,$10.77M
+836,Litecoin Cash,LCC,$10.74M
+837,ICHI,ICHI,$10.68M
+838,WOM Protocol,WOM,$10.65M
+839,Bitcore,BTX,$10.63M
+840,Sylo,SYLO,$10.51M
+841,PIXEL,PXL,$10.49M
+842,PolySwarm,NCT,$10.48M
+843,Safe,SAFE,$10.42M
+844,Kattana,KTN,$10.40M
+845,Polkamon,PMON,$10.36M
+846,Aragon Court,ANJ,$10.36M
+847,Anchor,ANCT,$10.35M
+848,Ethereum Push Notification Service,PUSH,$10.32M
+849,Monetha,MTH,$10.28M
+850,MoonSwap,MOON,$10.26M
+851,Pancake Bunny,BUNNY,$10.22M
+852,Trias Token (new),TRIAS,$10.17M
+853,IoT Chain,ITC,$10.12M
+854,Abyss,ABYSS,$10.05M
+855,Observer,OBSR,$10.04M
+856,BIKI,BIKI,$10.02M
+857,Cyclone Protocol,CYC,$9.96M
+858,Realio Network,RIO,$9.93M
+859,eBoost,EBST,$9.93M
+860,Hakka.Finance,HAKKA,$9.88M
+861,POA,POA,$9.87M
+862,Bitcoin 2,BTC2,$9.85M
+863,PieDAO DOUGH v2,DOUGH,$9.84M
+864,Infinitus Token,INF,$9.80M
+865,Bitcoin Private,BTCP,$9.74M
+866,OctoFi,OCTO,$9.73M
+867,Covesting,COV,$9.69M
+868,Qubitica,QBIT,$9.66M
+869,EUNO,EUNO,$9.66M
+870,Saito,SAITO,$9.65M
+871,Decentralized Vulnerability Platform,DVP,$9.59M
+872,Pillar,PLR,$9.58M
+873,YOYOW,YOYOW,$9.57M
+874,Achain,ACT,$9.57M
+875,Spectre.ai Dividend Token,SXDT,$9.56M
+876,SakeToken,SAKE,$9.53M
+877,Folgory Coin,FLG,$9.53M
+878,USDX [Lighthouse],USDX,$9.49M
+879,ZBG Token,ZT,$9.46M
+880,Matrix AI Network,MAN,$9.40M
+881,Diamond,DMD,$9.40M
+882,Multiplier,BMXX,$9.40M
+883,Spartan Protocol,SPARTA,$9.39M
+884,MOBOX,MBOX,$9.39M
+885,Agrello,DLT,$9.37M
+886,Monero Classic,XMC,$9.37M
+887,Grid+,GRID,$9.36M
+888,Circuits of Value,COVAL,$9.33M
+889,Plasma Finance,PPAY,$9.22M
+890,Viberate,VIB,$9.15M
+891,Opium,OPIUM,$9.10M
+892,DAFI Protocol,DAFI,$9.10M
+893,BLink,BLINK,$9.09M
+894,Decentr,DEC,$9.06M
+895,EXMO Coin,EXM,$9.01M
+896,Vanilla Network,VNLA,$9.01M
+897,Origin Dollar,OUSD,$8.97M
+898,Kryll,KRL,$8.96M
+899,Santiment Network Token,SAN,$8.90M
+900,Qitmeer,PMEER,$8.81M
+901,Lightning Bitcoin,LBTC,$8.76M
+902,Casino Betting Coin,CBC,$8.76M
+903,Garlicoin,GRLC,$8.75M
+904,eBitcoin,EBTC,$8.74M
+905,Tachyon Protocol,IPX,$8.66M
+906,Wagerr,WGR,$8.64M
+907,UniLayer,LAYER,$8.63M
+908,QLC Chain,QLC,$8.63M
+909,apM Coin,APM,$8.57M
+910,AnimalGo,GOM2,$8.53M
+911,Levolution,LEVL,$8.52M
+912,Basis Cash,BAC,$8.51M
+913,StakeCubeCoin,SCC,$8.50M
+914,LABS Group,LABS,$8.50M
+915,Multiplier,MXX,$8.48M
+916,TERA,TERA,$8.45M
+917,Autonio,NIOX,$8.43M
+918,HTMLCOIN,HTML,$8.43M
+919,NaPoleonX,NPX,$8.39M
+920,K21,K21,$8.26M
+921,Polkamarkets,POLK,$8.25M
+922,Olive,OLE,$8.24M
+923,Duck DAO (DLP Duck Token),DUCK,$8.24M
+924,yieldwatch,WATCH,$8.22M
+925,Etho Protocol,ETHO,$8.19M
+926,Alchemy Pay,ACH,$8.16M
+927,Razor Network,RAZOR,$8.15M
+928,DeepOnion,ONION,$8.11M
+929,Cobak Token,CBK,$8.09M
+930,PRCY Coin,PRCY,$8.05M
+931,Blockzero Labs,XIO,$8.03M
+932,FortKnoxster,FKX,$8.00M
+933,Receive Access Ecosystem,RAE,$8.00M
+934,DATA,DTA,$7.98M
+935,Adshares,ADS,$7.96M
+936,Apron Network,APN,$7.96M
+937,Hyve,HYVE,$7.94M
+938,Rainicorn,RAINI,$7.94M
+939,BEPRO Network,BEPRO,$7.89M
+940,AMLT,AMLT,$7.89M
+941,Unistake,UNISTAKE,$7.89M
+942,Noku,NOKU,$7.88M
+943,Whiteheart,WHITE,$7.87M
+944,Maple,MPL,$7.85M
+945,Mysterium,MYST,$7.82M
+946,MurAll,PAINT,$7.80M
+947,FIBOS,FO,$7.76M
+948,Horizon Protocol,HZN,$7.75M
+949,ProximaX,XPX,$7.75M
+950,PressOne,PRS,$7.74M
+951,Tixl,TXL,$7.71M
+952,MediShares,MDS,$7.69M
+953,AGA Token,AGA,$7.67M
+954,VestChain,VEST,$7.67M
+955,Hord,HORD,$7.64M
+956,Myriad,XMY,$7.64M
+957,BinaryX,BNX,$7.63M
+958,Nord Finance,NORD,$7.61M
+959,AMEPAY,AME,$7.58M
+960,PolkaFoundry,PKF,$7.55M
+961,ReapChain,REAP,$7.50M
+962,Effect.AI,EFX,$7.43M
+963,Xend Finance,XEND,$7.40M
+964,Vexanium,VEX,$7.39M
+965,Venus DOT,vDOT,$7.38M
+966,BioPassport Token,BIOT,$7.35M
+967,OceanEx Token,OCE,$7.34M
+968,Safex Token,SFT,$7.33M
+969,AS Roma Fan Token,ASR,$7.33M
+970,GeoDB,GEO,$7.29M
+971,Spore,SPORE,$7.26M
+972,SwftCoin,SWFTC,$7.25M
+973,Bibox Token,BIX,$7.25M
+974,Ruff,RUFF,$7.24M
+975,Muse,MUSE,$7.20M
+976,Oddz,ODDZ,$7.16M
+977,Mobius,MOBI,$7.15M
+978,UnlimitedIP,UIP,$7.14M
+979,Nestree,EGG,$7.11M
+980,Egretia,EGT,$7.10M
+981,PumaPay,PMA,$7.09M
+982,Niftyx Protocol,SHROOM,$7.08M
+983,PlotX,PLOT,$7.07M
+984,HitChain,HIT,$7.04M
+985,Xaya,CHI,$7.04M
+986,SoMee.Social,ONG,$7.03M
+987,yAxis,YAXIS,$7.03M
+988,Pundi X NEM,NPXSXEM,$7.02M
+989,Jobchain,JOB,$7.01M
+990,Credo,CREDO,$6.98M
+991,SIRIN LABS Token,SRN,$6.97M
+992,OG Fan Token,OG,$6.96M
+993,DOS Network,DOS,$6.96M
+994,CWV Chain,CWV,$6.95M
+995,Seedify.fund,SFUND,$6.95M
+996,Ambrosus,AMB,$6.92M
+997,Valor Token,VALOR,$6.91M
+998,Digitex,DGTX,$6.88M
+999,Meter Governance,MTRG,$6.85M
+1000,Auctus,AUC,$6.84M
